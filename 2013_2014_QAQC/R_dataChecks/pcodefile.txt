@@ -1,3 +1,0 @@
-pcode	qa.code	method.code	rounding.code	qualifiers	reporting.level	reporting.level.type	dqi.code	null.value.qualifier	prep.set.no	analytical.set.no	analysis.date	prep.date	lab.comment	field.comment	lab.stdev	analyzing.entity.code
-67325			3		0.4	LRL	S						Total Se minus selenite by hydride generation/CCAFS			USGSCORL
-67326			3		0.4	LRL	S						Selenite by hydride generation/CVAFS			USGSCORL
