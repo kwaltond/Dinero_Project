@@ -1,0 +1,17 @@
+{
+    "contents" : "library(QWToolbox)\n\n###2013 FAs\ndataUpload(qwsampletype = 1,\n\t\t\t\t\t DSN= \"NWISCO\",\n\t\t\t\t\t env.db = \"01\",\n\t\t\t\t\t qa.db = \"02\",\n\t\t\t\t\t pcodefile = \"pcodefile.csv\",\n\t\t\t\t\t labfile = \"2013_FA_labfile.csv\",\n\t\t\t\t\t qwresultname = \"2013_FA_qwresult\",\n\t\t\t\t\t qwsamplename = \"2013_FA_qwsample\",\n\t\t\t\t\t qwsample.begin.date = \"2013-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=TRUE)\n\n###2013 RAs\ndataUpload(qwsampletype = 1,\n\t\t\t\t\t DSN= \"NWISCO\",\n\t\t\t\t\t env.db = \"01\",\n\t\t\t\t\t qa.db = \"02\",\n\t\t\t\t\t pcodefile = \"pcodefile.csv\",\n\t\t\t\t\t labfile = \"2013_RA_labfile.csv\",\n\t\t\t\t\t qwresultname = \"2013_RA_qwresult\",\n\t\t\t\t\t qwsamplename = \"2013_RA_qwsample\",\n\t\t\t\t\t qwsample.begin.date = \"2013-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=TRUE)\n\n###2014 FAs\ndataUpload(qwsampletype = 1,\n\t\t\t\t\t DSN= \"NWISCO\",\n\t\t\t\t\t env.db = \"01\",\n\t\t\t\t\t qa.db = \"02\",\n\t\t\t\t\t pcodefile = \"pcodefile.csv\",\n\t\t\t\t\t labfile = \"2014_FA_labfile.csv\",\n\t\t\t\t\t qwresultname = \"2014_FA_qwresult\",\n\t\t\t\t\t qwsamplename = \"2014_FA_qwsample\",\n\t\t\t\t\t qwsample.begin.date = \"2013-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=TRUE)\n\n###2014 RAs\ndataUpload(qwsampletype = 1,\n\t\t\t\t\t DSN= \"NWISCO\",\n\t\t\t\t\t env.db = \"01\",\n\t\t\t\t\t qa.db = \"02\",\n\t\t\t\t\t pcodefile = \"pcodefile.csv\",\n\t\t\t\t\t labfile = \"2014_RA_labfile.csv\",\n\t\t\t\t\t qwresultname = \"2014_RA_qwresult\",\n\t\t\t\t\t qwsamplename = \"2014_RA_qwsample\",\n\t\t\t\t\t qwsample.begin.date = \"2013-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=TRUE)\n\n\n",
+    "created" : 1422640346037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3689743509",
+    "id" : "EB090CA",
+    "lastKnownWriteTime" : 1424729365,
+    "path" : "Z:/tmills/Dinero/20132014Metalsupload/Rupload_2013_2014_metals.R",
+    "project_path" : "Rupload_2013_2014_metals.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

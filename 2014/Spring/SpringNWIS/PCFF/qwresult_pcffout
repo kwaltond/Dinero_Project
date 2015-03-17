@@ -1,0 +1,685 @@
+5	84171	200		I						S									USGS-WRD
+5	00004	1.5		I						S									USGS-WRD
+5	00025	533.4		I	BAROM					S									USGS-WRD
+5	00061	0.333		I	QFLUM					S							10% Loss, Ha: 0.4		USGS-WRD
+5	00063	1		I						S									USGS-WRD
+5	00010	9.31		I	THM01					S									USGS-WRD
+5	00095	202		I	SC001					S									USGS-WRD
+5	00300	7.39		I	MEMBR					S									USGS-WRD
+5	00400	4.81		I	PROBE					S									USGS-WRD
+5	50280	1001		I						S									USGS-WRD
+5	71999	10.00		I						S									USGS-WRD
+5	82398	70		I						S									USGS-WRD
+5	84164	3071		I						S									USGS-WRD
+5	99111	10		I						S									USGS-WRD
+5	01300	0		I						S									USGS-WRD
+5	01305	0		I						S									USGS-WRD
+5	01320	0		I						S									USGS-WRD
+5	01325	0		I						S									USGS-WRD
+5	01330	0		I						S									USGS-WRD
+5	01340	0		I						S									USGS-WRD
+5	01345	0		I						S									USGS-WRD
+5	01350	0		I						S									USGS-WRD
+6	84171	200		I						S									USGS-WRD
+6	50280	1001		I						S									USGS-WRD
+6	71999	10.00		I						S									USGS-WRD
+6	82398	8010		I						S									USGS-WRD
+6	84164	8010		I						S									USGS-WRD
+6	99100	10		I						S									USGS-WRD
+6	99101	10		I						S									USGS-WRD
+6	99102	100		I						S									USGS-WRD
+7	84171	200		I						S									USGS-WRD
+7	00004	0.5		I						S									USGS-WRD
+7	00025	533.6		I	BAROM					S									USGS-WRD
+7	00061	0.073		I	QVOLM					S							vol 4750ml. times (sec) 2.30,2.31,2.30		USGS-WRD
+7	00063	1		I						S									USGS-WRD
+7	00010	4.01		I	THM01					S									USGS-WRD
+7	00095	353		I	SC001					S									USGS-WRD
+7	00300	5.68		I	MEMBR					S									USGS-WRD
+7	00400	4.65		I	PROBE					S									USGS-WRD
+7	50280	1001		I						S									USGS-WRD
+7	71999	10.00		I						S									USGS-WRD
+7	82398	70		I						S									USGS-WRD
+7	84164	3071		I						S									USGS-WRD
+7	99111	1		I						S									USGS-WRD
+7	01300	0		I						S									USGS-WRD
+7	01305	0		I						S									USGS-WRD
+7	01320	0		I						S									USGS-WRD
+7	01325	0		I						S									USGS-WRD
+7	01330	0		I						S									USGS-WRD
+7	01340	0		I						S									USGS-WRD
+7	01345	0		I						S									USGS-WRD
+7	01350	0		I						S									USGS-WRD
+8	84171	200		I						S									USGS-WRD
+8	00025	533.6		I	BAROM					S									USGS-WRD
+8	00061	0.0004		I	QVOLM					S									USGS-WRD
+8	00063	1		I						S									USGS-WRD
+8	00010	17.23		I	THM01					S									USGS-WRD
+8	00095	432		I	SC001					S									USGS-WRD
+8	00300	7.64		I	MEMBR					S									USGS-WRD
+8	00400	3.67		I	PROBE					S									USGS-WRD
+8	50280	1001		I						S									USGS-WRD
+8	71999	10.00		I						S									USGS-WRD
+8	82398	70		I						S									USGS-WRD
+8	84164	3071		I						S									USGS-WRD
+8	99111	1		I						S									USGS-WRD
+8	01300	0		I						S									USGS-WRD
+8	01305	0		I						S									USGS-WRD
+8	01320	0		I						S									USGS-WRD
+8	01325	0		I						S									USGS-WRD
+8	01330	0		I						S									USGS-WRD
+8	01340	0		I						S									USGS-WRD
+8	01345	0		I						S									USGS-WRD
+8	01350	0		I						S									USGS-WRD
+9	84171	200		I						S									USGS-WRD
+9	00004	3		I						S									USGS-WRD
+9	00025	535.6		I	BAROM					S									USGS-WRD
+9	00061	0.0352		I	QFLUM					S							Ha 0.13 4"baski		USGS-WRD
+9	00063	1		I						S									USGS-WRD
+9	00010	8.51		I	THM01					S									USGS-WRD
+9	00095	599		I	SC001					S									USGS-WRD
+9	00300	8.05		I	MEMBR					S									USGS-WRD
+9	00400	6.72		I	PROBE					S									USGS-WRD
+9	50280	1001		I						S									USGS-WRD
+9	71999	10.00		I						S									USGS-WRD
+9	82398	70		I						S									USGS-WRD
+9	84164	3071		I						S									USGS-WRD
+9	99111	1		I						S									USGS-WRD
+9	01300	0		I						S									USGS-WRD
+9	01305	0		I						S									USGS-WRD
+9	01320	0		I						S									USGS-WRD
+9	01325	0		I						S									USGS-WRD
+9	01330	0		I						S									USGS-WRD
+9	01340	0		I						S									USGS-WRD
+9	01345	0		I						S									USGS-WRD
+9	01350	0		I						S									USGS-WRD
+10	84171	200		I						S									USGS-WRD
+10	00004	1		I						S									USGS-WRD
+10	00025	533.4		I	BAROM					S									USGS-WRD
+10	00061	0.255		I	QFLUM					S							4" baski. HA 0.35, 10%loss		USGS-WRD
+10	00063	1		I						S									USGS-WRD
+10	00010	11.6		I	THM01					S									USGS-WRD
+10	00095	227		I	SC001					S									USGS-WRD
+10	00300	7.17		I	MEMBR					S									USGS-WRD
+10	00400	4.78		I	PROBE					S									USGS-WRD
+10	50280	1001		I						S									USGS-WRD
+10	71999	10.00		I						S									USGS-WRD
+10	82398	70		I						S									USGS-WRD
+10	84164	8010		I						S									USGS-WRD
+10	99111	30		I						S									USGS-WRD
+10	01300	0		I						S									USGS-WRD
+10	01305	0		I						S									USGS-WRD
+10	01320	0		I						S									USGS-WRD
+10	01325	0		I						S									USGS-WRD
+10	01330	0		I						S									USGS-WRD
+10	01340	0		I						S									USGS-WRD
+10	01345	0		I						S									USGS-WRD
+10	01350	0		I						S									USGS-WRD
+11	84171	200		I						S									USGS-WRD
+11	00004	1		I						S									USGS-WRD
+11	00025	533.4		I	BAROM					S									USGS-WRD
+11	00061	0.255		I	QFLUM					S							0.35 ha 4" baski 10% loss		USGS-WRD
+11	00063	1		I						S									USGS-WRD
+11	00010	11.6		I	THM01					S									USGS-WRD
+11	00095	227		I	SC001					S									USGS-WRD
+11	00300	7.17		I	MEMBR					S									USGS-WRD
+11	00400	4.78		I	PROBE					S									USGS-WRD
+11	50280	1001		I						S									USGS-WRD
+11	71999	10.00		I						S									USGS-WRD
+11	82398	70		I						S									USGS-WRD
+11	84164	8010		I						S									USGS-WRD
+11	01300	0		I						S									USGS-WRD
+11	01305	0		I						S									USGS-WRD
+11	01320	0		I						S									USGS-WRD
+11	01325	0		I						S									USGS-WRD
+11	01330	0		I						S									USGS-WRD
+11	01340	0		I						S									USGS-WRD
+11	01345	0		I						S									USGS-WRD
+11	01350	0		I						S									USGS-WRD
+12	84171	200		I						S									USGS-WRD
+12	00025	535.8		I	BAROM					S									USGS-WRD
+12	00061	2.01		I	QFLUM					S							Ha 0.69 Hb 0.34 8" baski 5% loss		USGS-WRD
+12	00063	1		I						S									USGS-WRD
+12	00010	9.81		I	THM01					S									USGS-WRD
+12	00095	135		I	SC001					S									USGS-WRD
+12	00400	4.40		I	PROBE					S									USGS-WRD
+12	50280	1001		I						S									USGS-WRD
+12	71999	10.00		I						S									USGS-WRD
+12	82398	70		I						S									USGS-WRD
+12	84164	3071		I						S									USGS-WRD
+12	99111	1		I						S									USGS-WRD
+12	01300	0		I						S									USGS-WRD
+12	01305	0		I						S									USGS-WRD
+12	01320	0		I						S									USGS-WRD
+12	01325	0		I						S									USGS-WRD
+12	01330	0		I						S									USGS-WRD
+12	01340	0		I						S									USGS-WRD
+12	01345	0		I						S									USGS-WRD
+12	01350	0		I						S									USGS-WRD
+13	84171	200		I						S									USGS-WRD
+13	00004	2		I						S									USGS-WRD
+13	00025	527.1		I	BAROM					S									USGS-WRD
+13	00061	0.00333		I	QFLUM					S							4" baski, ha 0.04		USGS-WRD
+13	00063	1		I						S									USGS-WRD
+13	00010	5.98		I	THM01					S									USGS-WRD
+13	00095	396		I	SC001					S									USGS-WRD
+13	00300	4.03		I	MEMBR					S									USGS-WRD
+13	00400	5.78		I	PROBE					S									USGS-WRD
+13	50280	1001		I						S									USGS-WRD
+13	71999	10.00		I						S									USGS-WRD
+13	82398	70		I						S									USGS-WRD
+13	84164	3071		I						S									USGS-WRD
+13	99111	1		I						S									USGS-WRD
+13	01300	0		I						S									USGS-WRD
+13	01305	0		I						S									USGS-WRD
+13	01320	0		I						S									USGS-WRD
+13	01325	0		I						S									USGS-WRD
+13	01330	0		I						S									USGS-WRD
+13	01340	0		I						S									USGS-WRD
+13	01345	0		I						S									USGS-WRD
+13	01350	0		I						S									USGS-WRD
+14	84171	200		I						S									USGS-WRD
+14	00025	538.8		I	BAROM					S									USGS-WRD
+14	00061	139		I	QSTGQ					S							staff = 1.3 at gage house		USGS-WRD
+14	00063	1		I						S									USGS-WRD
+14	00010	5.07		I	THM01					S									USGS-WRD
+14	00095	41		I	SC001					S									USGS-WRD
+14	00300	9.50		I	MEMBR					S									USGS-WRD
+14	00400	7.06		I	PROBE					S									USGS-WRD
+14	50280	1001		I						S									USGS-WRD
+14	71999	10.00		I						S									USGS-WRD
+14	82398	70		I						S									USGS-WRD
+14	84164	8010		I						S									USGS-WRD
+14	99111	10		I						S									USGS-WRD
+14	01300	0		I						S									USGS-WRD
+14	01305	0		I						S									USGS-WRD
+14	01320	0		I						S									USGS-WRD
+14	01325	0		I						S									USGS-WRD
+14	01330	0		I						S									USGS-WRD
+14	01340	0		I						S									USGS-WRD
+14	01345	0		I						S									USGS-WRD
+14	01350	0		I						S									USGS-WRD
+15	84171	200		I						S									USGS-WRD
+15	00063	1		I						S									USGS-WRD
+15	50280	1001		I						S									USGS-WRD
+15	71999	10.00		I						S									USGS-WRD
+15	82398	8010		I						S									USGS-WRD
+15	84164	8010		I						S									USGS-WRD
+15	99100	10		I						S									USGS-WRD
+15	99101	10		I						S									USGS-WRD
+15	99102	100		I						S									USGS-WRD
+16	84171	200		I						S									USGS-WRD
+16	00004	1		I						S									USGS-WRD
+16	00025	535.8		I	BAROM					S									USGS-WRD
+16	00061	0.043		I	QVOLM					S							5% loss		USGS-WRD
+16	00063	1		I						S									USGS-WRD
+16	00010	5.64		I	THM01					S									USGS-WRD
+16	00095	188		I	SC001					S									USGS-WRD
+16	00300	8.01		I	MEMBR					S									USGS-WRD
+16	00400	5.45		I	PROBE					S									USGS-WRD
+16	50280	1001		I						S									USGS-WRD
+16	71999	10.00		I						S									USGS-WRD
+16	82398	70		I						S									USGS-WRD
+16	84164	8010		I						S									USGS-WRD
+16	99111	30		I						S									USGS-WRD
+16	01300	0		I						S									USGS-WRD
+16	01305	0		I						S									USGS-WRD
+16	01320	0		I						S									USGS-WRD
+16	01325	0		I						S									USGS-WRD
+16	01330	0		I						S									USGS-WRD
+16	01340	0		I						S									USGS-WRD
+16	01345	0		I						S									USGS-WRD
+16	01350	0		I						S									USGS-WRD
+17	84171	200		I						S									USGS-WRD
+17	00004	1		I						S									USGS-WRD
+17	00025	535.8		I	BAROM					S									USGS-WRD
+17	00061	0.0429		I	QVOLM					S							5% loss		USGS-WRD
+17	00063	1		I						S									USGS-WRD
+17	00010	5.64		I	THM01					S									USGS-WRD
+17	00095	188		I	SC001					S									USGS-WRD
+17	00300	8.01		I	MEMBR					S									USGS-WRD
+17	00400	5.45		I	PROBE					S									USGS-WRD
+17	50280	1001		I						S									USGS-WRD
+17	71999	10.00		I						S									USGS-WRD
+17	82398	70		I						S									USGS-WRD
+17	84164	8010		I						S									USGS-WRD
+17	01300	0		I						S									USGS-WRD
+17	01305	0		I						S									USGS-WRD
+17	01320	0		I						S									USGS-WRD
+17	01325	0		I						S									USGS-WRD
+17	01330	0		I						S									USGS-WRD
+17	01340	0		I						S									USGS-WRD
+17	01345	0		I						S									USGS-WRD
+17	01350	0		I						S									USGS-WRD
+18	84171	200		I						S									USGS-WRD
+18	00004	1.5		I						S									USGS-WRD
+18	00025	533.4		I	BAROM					S									USGS-WRD
+18	00061	0.34		I	QFLUM					S							L channel QVOLM at 0.0765cfs, R channel ha0.36 4" baski		USGS-WRD
+18	00063	1		I						S									USGS-WRD
+18	00010	5.6		I	THM01					S									USGS-WRD
+18	00095	294		I	SC001					S									USGS-WRD
+18	00400	4.72		I	PROBE					S									USGS-WRD
+18	50280	1001		I						S									USGS-WRD
+18	71999	10.00		I						S									USGS-WRD
+18	82398	70		I						S									USGS-WRD
+18	84164	3071		I						S									USGS-WRD
+18	99111	1		I						S									USGS-WRD
+18	01300	0		I						S									USGS-WRD
+18	01305	0		I						S									USGS-WRD
+18	01320	0		I						S									USGS-WRD
+18	01325	0		I						S									USGS-WRD
+18	01330	0		I						S									USGS-WRD
+18	01340	0		I						S									USGS-WRD
+18	01345	0		I						S									USGS-WRD
+18	01350	0		I						S									USGS-WRD
+19	84171	200		I						S									USGS-WRD
+19	00004	0.5		I						S									USGS-WRD
+19	00025	532.4		I	BAROM					S									USGS-WRD
+19	00061	0.023		I	QVOLM					S									USGS-WRD
+19	00063	1		I						S									USGS-WRD
+19	00010	6.49		I	THM01					S									USGS-WRD
+19	00095	63		I	SC001					S									USGS-WRD
+19	00400	6.52		I	PROBE					S									USGS-WRD
+19	50280	1001		I						S									USGS-WRD
+19	71999	10.00		I						S									USGS-WRD
+19	82398	70		I						S									USGS-WRD
+19	84164	3071		I						S									USGS-WRD
+19	99111	1		I						S									USGS-WRD
+19	01300	0		I						S									USGS-WRD
+19	01305	0		I						S									USGS-WRD
+19	01320	0		I						S									USGS-WRD
+19	01325	0		I						S									USGS-WRD
+19	01330	0		I						S									USGS-WRD
+19	01340	0		I						S									USGS-WRD
+19	01345	0		I						S									USGS-WRD
+19	01350	0		I						S									USGS-WRD
+20	84171	200		I						S									USGS-WRD
+20	00025	531.4		I	BAROM					S									USGS-WRD
+20	00061	0.316		I	QFLUM					S							Ha: 0.39 Hb 0.14 4" baski		USGS-WRD
+20	00010	4.79		I	THM01					S									USGS-WRD
+20	00095	285		I	SC001					S									USGS-WRD
+20	00400	4.83		I	PROBE					S									USGS-WRD
+20	50280	1001		I						S									USGS-WRD
+20	71999	10.00		I						S									USGS-WRD
+20	82398	70		I						S									USGS-WRD
+20	84164	3071		I						S									USGS-WRD
+20	99111	1		I						S									USGS-WRD
+20	01300	0		I						S									USGS-WRD
+20	01305	0		I						S									USGS-WRD
+20	01320	0		I						S									USGS-WRD
+20	01325	0		I						S									USGS-WRD
+20	01330	0		I						S									USGS-WRD
+20	01340	0		I						S									USGS-WRD
+20	01345	0		I						S									USGS-WRD
+20	01350	0		I						S									USGS-WRD
+21	84171	200		I						S									USGS-WRD
+21	00004	2		I						S									USGS-WRD
+21	00025	529.9		I	BAROM					S									USGS-WRD
+21	00061	0.24		I	QFLUM					S							Ha 0.34 hb 0.11 4" baski		USGS-WRD
+21	00063	1		I						S									USGS-WRD
+21	00010	4.52		I	THM01					S									USGS-WRD
+21	00095	256		I	SC001					S									USGS-WRD
+21	00400	4.58		I	PROBE					S									USGS-WRD
+21	50280	1001		I						S									USGS-WRD
+21	71999	10.00		I						S									USGS-WRD
+21	82398	70		I						S									USGS-WRD
+21	84164	3071		I						S									USGS-WRD
+21	99111	1		I						S									USGS-WRD
+21	01300	0		I						S									USGS-WRD
+21	01305	0		I						S									USGS-WRD
+21	01320	0		I						S									USGS-WRD
+21	01325	0		I						S									USGS-WRD
+21	01330	0		I						S									USGS-WRD
+21	01340	0		I						S									USGS-WRD
+21	01345	0		I						S									USGS-WRD
+21	01350	0		I						S									USGS-WRD
+22	84171	200		I						S									USGS-WRD
+22	00025	530.2		I	BAROM					S									USGS-WRD
+22	00061	0.17		I	QVOLM					S							vol 4750ml time(s) 9.8,9.6,9.28		USGS-WRD
+22	00010	4.77		I	THM01					S									USGS-WRD
+22	00095	598		I	SC001					S									USGS-WRD
+22	00400	5.25		I	PROBE					S									USGS-WRD
+22	50280	1001		I						S									USGS-WRD
+22	71999	10.00		I						S									USGS-WRD
+22	82398	70		I						S									USGS-WRD
+22	84164	3071		I						S									USGS-WRD
+22	99111	1		I						S									USGS-WRD
+22	01300	0		I						S									USGS-WRD
+22	01305	0		I						S									USGS-WRD
+22	01320	0		I						S									USGS-WRD
+22	01325	0		I						S									USGS-WRD
+22	01330	0		I						S									USGS-WRD
+22	01340	0		I						S									USGS-WRD
+22	01345	0		I						S									USGS-WRD
+22	01350	0		I						S									USGS-WRD
+23	84171	200		I						S									USGS-WRD
+23	00004	25		I						S									USGS-WRD
+23	00025	532.4		I	BAROM					S									USGS-WRD
+23	00061	163		I	QSCMM					S									USGS-WRD
+23	00063	5		I						S									USGS-WRD
+23	00010	5.41		I	THM01					S									USGS-WRD
+23	00095	30		I	SC001					S									USGS-WRD
+23	00300	9.15		I	MEMBR					S									USGS-WRD
+23	00400	7.34		I	PROBE					S									USGS-WRD
+23	50280	1001		I						S									USGS-WRD
+23	71999	10.00		I						S									USGS-WRD
+23	82398	70		I						S									USGS-WRD
+23	84164	3044		I						S									USGS-WRD
+23	99111	10		I						S									USGS-WRD
+23	01300	0		I						S									USGS-WRD
+23	01305	0		I						S									USGS-WRD
+23	01320	0		I						S									USGS-WRD
+23	01325	0		I						S									USGS-WRD
+23	01330	0		I						S									USGS-WRD
+23	01340	0		I						S									USGS-WRD
+23	01345	0		I						S									USGS-WRD
+23	01350	0		I						S									USGS-WRD
+24	84171	200		I						S									USGS-WRD
+24	50280	1001		I						S									USGS-WRD
+24	71999	10.00		I						S									USGS-WRD
+24	82398	8010		I						S									USGS-WRD
+24	84164	8010		I						S									USGS-WRD
+24	99100	10		I						S									USGS-WRD
+24	99101	10		I						S									USGS-WRD
+24	99102	100		I						S									USGS-WRD
+25	84171	200		I						S									USGS-WRD
+25	00004	1		I						S									USGS-WRD
+25	00025	532.5		I	BAROM					S									USGS-WRD
+25	00061	0.459		I	QFLUM					S							ha: 0.47 hb: 0.14 4" baski		USGS-WRD
+25	00063	1		I						S									USGS-WRD
+25	00010	10.27		I	THM01					S									USGS-WRD
+25	00095	42		I	SC001					S									USGS-WRD
+25	00300	6.79		I	MEMBR					S									USGS-WRD
+25	00400	6.87		I	PROBE					S									USGS-WRD
+25	50280	1001		I						S									USGS-WRD
+25	71999	10.00		I						S									USGS-WRD
+25	82398	70		I						S									USGS-WRD
+25	84164	3071		I						S									USGS-WRD
+25	99111	1		I						S									USGS-WRD
+25	01300	0		I						S									USGS-WRD
+25	01305	0		I						S									USGS-WRD
+25	01320	0		I						S									USGS-WRD
+25	01325	0		I						S									USGS-WRD
+25	01330	0		I						S									USGS-WRD
+25	01340	0		I						S									USGS-WRD
+25	01345	0		I						S									USGS-WRD
+25	01350	0		I						S									USGS-WRD
+26	84171	200		I						S									USGS-WRD
+26	00004	0.5		I						S									USGS-WRD
+26	00025	530.9		I	BAROM					S									USGS-WRD
+26	00061	0.0027		I	QVOLM					S							vol 485ml, time(s) 6.13,6.38,6.46		USGS-WRD
+26	00063	1		I						S									USGS-WRD
+26	00010	9.89		I	THM01					S									USGS-WRD
+26	00095	164		I	SC001					S									USGS-WRD
+26	00300	7.06		I	MEMBR					S									USGS-WRD
+26	00400	6.61		I	PROBE					S									USGS-WRD
+26	50280	1001		I						S									USGS-WRD
+26	71999	10.00		I						S									USGS-WRD
+26	82398	70		I						S									USGS-WRD
+26	84164	3071		I						S									USGS-WRD
+26	99111	1		I						S									USGS-WRD
+26	01300	0		I						S									USGS-WRD
+26	01305	0		I						S									USGS-WRD
+26	01320	0		I						S									USGS-WRD
+26	01325	0		I						S									USGS-WRD
+26	01330	0		I						S									USGS-WRD
+26	01340	0		I						S									USGS-WRD
+26	01345	0		I						S									USGS-WRD
+26	01350	0		I						S									USGS-WRD
+27	84171	200		I						S									USGS-WRD
+27	00025	527.4		I	BAROM					S									USGS-WRD
+27	00061	0.008		I	QVOLM					S							vol 13L, time(s) 57.55,58.1,58.12		USGS-WRD
+27	00063	1		I						S									USGS-WRD
+27	00010	10.59		I	THM01					S									USGS-WRD
+27	00095	183		I	SC001					S									USGS-WRD
+27	00300	1.36		I	MEMBR					S									USGS-WRD
+27	00400	6.49		I	PROBE					S									USGS-WRD
+27	50280	1001		I						S									USGS-WRD
+27	71999	10.00		I						S									USGS-WRD
+27	82398	70		I						S									USGS-WRD
+27	84164	3071		I						S									USGS-WRD
+27	99111	1		I						S									USGS-WRD
+27	01300	0		I						S									USGS-WRD
+27	01305	0		I						S									USGS-WRD
+27	01320	0		I						S									USGS-WRD
+27	01325	0		I						S									USGS-WRD
+27	01330	0		I						S									USGS-WRD
+27	01340	0		I						S									USGS-WRD
+27	01345	0		I						S									USGS-WRD
+27	01350	0		I						S									USGS-WRD
+28	84171	200		I						S									USGS-WRD
+28	00004	5		I						S									USGS-WRD
+28	00025	531.1		I	BAROM					S									USGS-WRD
+28	00063	1		I						S									USGS-WRD
+28	00010	9.27		I	THM01					S									USGS-WRD
+28	00095	408		I	SC001					S									USGS-WRD
+28	00300	4.74		I	MEMBR					S									USGS-WRD
+28	00400	6.05		I	PROBE					S									USGS-WRD
+28	50280	1001		I						S									USGS-WRD
+28	71999	10.00		I						S									USGS-WRD
+28	82398	70		I						S									USGS-WRD
+28	84164	3071		I						S									USGS-WRD
+28	99111	1		I						S									USGS-WRD
+28	01300	0		I						S									USGS-WRD
+28	01305	0		I						S									USGS-WRD
+28	01320	0		I						S									USGS-WRD
+28	01325	0		I						S									USGS-WRD
+28	01330	0		I						S									USGS-WRD
+28	01340	0		I						S									USGS-WRD
+28	01345	0		I						S									USGS-WRD
+28	01350	0		I						S									USGS-WRD
+29	84171	200		I						S									USGS-WRD
+29	00004	3		I						S									USGS-WRD
+29	00025	527.4		I	BAROM					S									USGS-WRD
+29	00061	2.07		I	QFLUM					S							ha 0.7 hb 0.34 8" baski		USGS-WRD
+29	00063	1		I						S									USGS-WRD
+29	00010	6.73		I	THM01					S									USGS-WRD
+29	00095	160		I	SC001					S									USGS-WRD
+29	00300	8.02		I	MEMBR					S									USGS-WRD
+29	00400	4.11		I	PROBE					S									USGS-WRD
+29	50280	1001		I						S									USGS-WRD
+29	71999	10.00		I						S									USGS-WRD
+29	82398	70		I						S									USGS-WRD
+29	84164	8010		I						S									USGS-WRD
+29	99111	30		I						S									USGS-WRD
+29	01300	0		I						S									USGS-WRD
+29	01305	0		I						S									USGS-WRD
+29	01320	0		I						S									USGS-WRD
+29	01325	0		I						S									USGS-WRD
+29	01330	0		I						S									USGS-WRD
+29	01340	0		I						S									USGS-WRD
+29	01345	0		I						S									USGS-WRD
+29	01350	0		I						S									USGS-WRD
+30	84171	200		I						S									USGS-WRD
+30	00004	3		I						S									USGS-WRD
+30	00025	527.3		I	BAROM					S									USGS-WRD
+30	00061	2.07		I	QFLUM					S									USGS-WRD
+30	00063	1		I						S									USGS-WRD
+30	00010	6.60		I	THM01					S									USGS-WRD
+30	00095	153		I	SC001					S									USGS-WRD
+30	00300	8.4		I	MEMBR					S									USGS-WRD
+30	00400	4.12		I	PROBE					S									USGS-WRD
+30	50280	1001		I						S									USGS-WRD
+30	71999	10.00		I						S									USGS-WRD
+30	82398	70		I						S									USGS-WRD
+30	84164	8010		I						S									USGS-WRD
+30	01300	0		I						S									USGS-WRD
+30	01305	0		I						S									USGS-WRD
+30	01320	0		I						S									USGS-WRD
+30	01325	0		I						S									USGS-WRD
+30	01330	0		I						S									USGS-WRD
+30	01340	0		I						S									USGS-WRD
+30	01345	0		I						S									USGS-WRD
+30	01350	0		I						S									USGS-WRD
+31	84171	200		I						S									USGS-WRD
+31	00004	3		I						S									USGS-WRD
+31	00025	532.7		I	BAROM					S									USGS-WRD
+31	00063	1		I						S									USGS-WRD
+31	00010	3.96		I	THM01					S									USGS-WRD
+31	00095	173		I	SC001					S									USGS-WRD
+31	00300	2.18		I	MEMBR					S									USGS-WRD
+31	00400	5.75		I	PROBE					S									USGS-WRD
+31	50280	1001		I						S									USGS-WRD
+31	71999	10.00		I						S									USGS-WRD
+31	82398	70		I						S									USGS-WRD
+31	84164	8010		I						S									USGS-WRD
+31	99111	30		I						S									USGS-WRD
+31	01300	0		I						S									USGS-WRD
+31	01305	0		I						S									USGS-WRD
+31	01320	0		I						S									USGS-WRD
+31	01325	0		I						S									USGS-WRD
+31	01330	0		I						S									USGS-WRD
+31	01340	0		I						S									USGS-WRD
+31	01345	0		I						S									USGS-WRD
+31	01350	0		I						S									USGS-WRD
+32	84171	200		I						S									USGS-WRD
+32	00004	3		I						S									USGS-WRD
+32	00025	532.7		I	BAROM					S									USGS-WRD
+32	00063	1		I						S									USGS-WRD
+32	00010	3.97		I	THM01					S									USGS-WRD
+32	00095	172		I	SC001					S									USGS-WRD
+32	00300	2.01		I	MEMBR					S									USGS-WRD
+32	00400	5.76		I	PROBE					S									USGS-WRD
+32	50280	1001		I						S									USGS-WRD
+32	71999	10.00		I						S									USGS-WRD
+32	82398	70		I						S									USGS-WRD
+32	84164	8010		I						S									USGS-WRD
+32	01300	0		I						S									USGS-WRD
+32	01305	0		I						S									USGS-WRD
+32	01320	0		I						S									USGS-WRD
+32	01325	0		I						S									USGS-WRD
+32	01330	0		I						S									USGS-WRD
+32	01340	0		I						S									USGS-WRD
+32	01345	0		I						S									USGS-WRD
+32	01350	0		I						S									USGS-WRD
+33	84171	200		I						S									USGS-WRD
+33	00004	4		I						S									USGS-WRD
+33	00025	533.3		I	BAROM					S									USGS-WRD
+33	00061	1.62		I	QFLUM					S							ha 0.62 hb 0.3 8" baski, 10%loss		USGS-WRD
+33	00063	1		I						S									USGS-WRD
+33	00010	12.12		I	THM01					S									USGS-WRD
+33	00095	90		I	SC001					S									USGS-WRD
+33	00300	7.49		I	MEMBR					S									USGS-WRD
+33	00400	5.76		I	PROBE					S									USGS-WRD
+33	50280	1001		I						S									USGS-WRD
+33	71999	10.00		I						S									USGS-WRD
+33	82398	70		I						S									USGS-WRD
+33	84164	8010		I						S									USGS-WRD
+33	99111	10		I						S									USGS-WRD
+33	01300	0		I						S									USGS-WRD
+33	01305	0		I						S									USGS-WRD
+33	01320	0		I						S									USGS-WRD
+33	01325	0		I						S									USGS-WRD
+33	01330	0		I						S									USGS-WRD
+33	01340	0		I						S									USGS-WRD
+33	01345	0		I						S									USGS-WRD
+33	01350	0		I						S									USGS-WRD
+34	84171	200		I						S									USGS-WRD
+34	00063	1		I						S									USGS-WRD
+34	50280	1001		I						S									USGS-WRD
+34	71999	10.00		I						S									USGS-WRD
+34	82398	8010		I						S									USGS-WRD
+34	84164	8010		I						S									USGS-WRD
+34	99100	10		I						S									USGS-WRD
+34	99101	10		I						S									USGS-WRD
+34	99102	100		I						S									USGS-WRD
+35	84171	200		I						S									USGS-WRD
+35	00063	1		I						S									USGS-WRD
+35	00010	10.87		I	THM01					S									USGS-WRD
+35	00095	1180		I	SC001					S									USGS-WRD
+35	00300	6.21		I	MEMBR					S									USGS-WRD
+35	00400	6.32		I	PROBE					S									USGS-WRD
+35	50280	1001		I						S									USGS-WRD
+35	71999	10.00		I						S									USGS-WRD
+35	82398	70		I						S									USGS-WRD
+35	84164	3071		I						S									USGS-WRD
+35	99111	1		I						S									USGS-WRD
+35	01300	0		I						S									USGS-WRD
+35	01305	0		I						S									USGS-WRD
+35	01320	0		I						S									USGS-WRD
+35	01325	0		I						S									USGS-WRD
+35	01330	0		I						S									USGS-WRD
+35	01340	0		I						S									USGS-WRD
+35	01345	0		I						S									USGS-WRD
+35	01350	0		I						S									USGS-WRD
+36	84171	200		I						S									USGS-WRD
+36	00063	1		I						S									USGS-WRD
+36	00010	9.27		I	THM01					S									USGS-WRD
+36	00095	1361		I	SC001					S									USGS-WRD
+36	00300	2.47		I	MEMBR					S									USGS-WRD
+36	00400	5.71		I	PROBE					S									USGS-WRD
+36	50280	1001		I						S									USGS-WRD
+36	71999	10.00		I						S									USGS-WRD
+36	82398	70		I						S									USGS-WRD
+36	84164	3071		I						S									USGS-WRD
+36	99111	1		I						S									USGS-WRD
+36	01300	0		I						S									USGS-WRD
+36	01305	0		I						S									USGS-WRD
+36	01320	0		I						S									USGS-WRD
+36	01325	0		I						S									USGS-WRD
+36	01330	0		I						S									USGS-WRD
+36	01340	0		I						S									USGS-WRD
+36	01345	0		I						S									USGS-WRD
+36	01350	0		I						S									USGS-WRD
+37	84171	200		I						S									USGS-WRD
+37	00004	6		I						S									USGS-WRD
+37	00025	528.2		I	BAROM					S									USGS-WRD
+37	00061	1.19		I	QFLUM					S							ha 0.53 hb: 0.26		USGS-WRD
+37	00063	1		I						S									USGS-WRD
+37	00010	5.14		I	THM01					S									USGS-WRD
+37	00095	55		I	SC001					S									USGS-WRD
+37	00300	8.31		I	MEMBR					S									USGS-WRD
+37	00400	6.13		I	PROBE					S									USGS-WRD
+37	50280	1001		I						S									USGS-WRD
+37	71999	10.00		I						S									USGS-WRD
+37	82398	70		I						S									USGS-WRD
+37	84164	3071		I						S									USGS-WRD
+37	99111	1		I						S									USGS-WRD
+37	01300	0		I						S									USGS-WRD
+37	01305	0		I						S									USGS-WRD
+37	01320	0		I						S									USGS-WRD
+37	01325	0		I						S									USGS-WRD
+37	01330	0		I						S									USGS-WRD
+37	01340	0		I						S									USGS-WRD
+37	01345	0		I						S									USGS-WRD
+37	01350	0		I						S									USGS-WRD
+38	84171	200		I						S									USGS-WRD
+38	00004	1		I						S									USGS-WRD
+38	00061	0.00187		I	QFLUM					S							4" Baski, HA:0.03, <5% Loss		USGS-WRD
+38	00063	1		I						S									USGS-WRD
+38	00010	3.2		I	THM01					S									USGS-WRD
+38	00095	36.78		I	SC001					S									USGS-WRD
+38	00400	7.27		I	PROBE					S									USGS-WRD
+38	50280	1001		I						S									USGS-WRD
+38	71999	10.00		I						S									USGS-WRD
+38	82398	70		I						S									USGS-WRD
+38	84164	3071		I						S									USGS-WRD
+38	99111	1		I						S									USGS-WRD
+38	01300	0		I						S									USGS-WRD
+38	01305	0		I						S									USGS-WRD
+38	01320	0		I						S									USGS-WRD
+38	01325	0		I						S									USGS-WRD
+38	01330	0		I						S									USGS-WRD
+38	01340	0		I						S									USGS-WRD
+38	01345	0		I						S									USGS-WRD
+38	01350	0		I						S									USGS-WRD
+39	84171	200		I						S									USGS-WRD
+39	00004	1		I						S									USGS-WRD
+39	00061	0.0182		I	QVOLM					S							5gal, t = 37.06s,36.58s,36.04s		USGS-WRD
+39	00063	1		I						S									USGS-WRD
+39	00010	2.6		I	THM01					S									USGS-WRD
+39	00095	239.8		I	SC001					S									USGS-WRD
+39	00400	3.43		I	PROBE					S									USGS-WRD
+39	50280	1001		I						S									USGS-WRD
+39	71999	10.00		I						S									USGS-WRD
+39	82398	70		I						S									USGS-WRD
+39	84164	3071		I						S									USGS-WRD
+39	99111	1		I						S									USGS-WRD
+39	01300	0		I						S									USGS-WRD
+39	01305	0		I						S									USGS-WRD
+39	01320	0		I						S									USGS-WRD
+39	01325	0		I						S									USGS-WRD
+39	01330	0		I						S									USGS-WRD
+39	01340	0		I						S									USGS-WRD
+39	01345	0		I						S									USGS-WRD
+39	01350	0		I						S									USGS-WRD

@@ -1,0 +1,16 @@
+{
+    "contents" : "library(QWToolbox)\n\n###Export templates for lab file and pcodefile\ntemplateExport()\n\n###Run the NWIS upload function\nnwisupload(qwsampletype = 1,\n\t\t\t\t\t DSN = \"NWISCO\",\n\t\t\t\t\t env.db = \"01\",\n\t\t\t\t\t qa.db = \"02\",\n\t\t\t\t\t labfile = \"labfile.csv\",\n\t\t\t\t\t pcodefile = \"pcodefile.csv\",\n\t\t\t\t\t qwsample.begin.date = \"2014-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=TRUE)",
+    "created" : 1423510820995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "33109122",
+    "id" : "85189DB8",
+    "lastKnownWriteTime" : 1423511045,
+    "path" : "Z:/tmills/Dinero/Dinero2014_FeUpload/nwisupload_script.R",
+    "project_path" : "nwisupload_script.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

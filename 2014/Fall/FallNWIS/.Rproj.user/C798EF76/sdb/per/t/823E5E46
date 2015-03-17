@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1413497284902.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "823E5E46",
+    "lastKnownWriteTime" : 1713795941,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "Samples",
+        "contentUrl" : "content?title=Samples&file=34a31e7c1b3149219e2a6f1e9aa46ebd.htm",
+        "displayedObservations" : "426",
+        "displayedVariables" : 29,
+        "totalObservations" : "426",
+        "variables" : "29"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

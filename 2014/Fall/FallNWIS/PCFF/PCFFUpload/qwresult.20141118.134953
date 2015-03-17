@@ -1,0 +1,668 @@
+34	00063	1		I						S									USGS-WRD
+34	50280	1001		I						S									USGS-WRD
+34	71999	10.00		I						S									USGS-WRD
+34	82398	70		I						S									USGS-WRD
+34	84164	3071		I						S									USGS-WRD
+34	99100	10		I						S									USGS-WRD
+34	99101	10		I						S									USGS-WRD
+34	99102	100		I						S									USGS-WRD
+34	99103	10		I						S									USGS-WRD
+34	99112	1		I						S									USGS-WRD
+34	99200	81103		I						S									USGS-WRD
+1	84171	200		I						S									USGS-WRD
+1	00004	1		I						S									USGS-WRD
+1	00025	534.5		I	BAROM					S									USGS-WRD
+1	00061	0.025		I	QVOLM					S									USGS-WRD
+1	00063	1		I						S									USGS-WRD
+1	00010	8.86		I	THM01					S									USGS-WRD
+1	00095	544		I	SC001					S									USGS-WRD
+1	00300	8.18		I	MEMBR					S									USGS-WRD
+1	00400	3.80		I	PROBE					S									USGS-WRD
+1	50280	1001		I						S									USGS-WRD
+1	71999	10.00		I						S									USGS-WRD
+1	82398	70		I						S									USGS-WRD
+1	84164	8010		I						S									USGS-WRD
+1	99111	30		I						S									USGS-WRD
+1	01300	0		I						S									USGS-WRD
+1	01305	0		I						S									USGS-WRD
+1	01320	0		I						S									USGS-WRD
+1	01325	0		I						S									USGS-WRD
+1	01330	0		I						S									USGS-WRD
+1	01340	0		I						S									USGS-WRD
+1	01345	0		I						S									USGS-WRD
+1	01350	0		I						S									USGS-WRD
+2	84171	200		I						S									USGS-WRD
+2	00063	1		I						S									USGS-WRD
+2	50280	1001		I						S									USGS-WRD
+2	71999	10.00		I						S									USGS-WRD
+2	82398	8010		I						S									USGS-WRD
+2	84164	8010		I						S									USGS-WRD
+2	99100	10		I						S									USGS-WRD
+2	99101	10		I						S									USGS-WRD
+2	99102	100		I						S									USGS-WRD
+2	99200	81103		I						S									USGS-WRD
+3	84171	200		I						S									USGS-WRD
+3	00004	17		I						S									USGS-WRD
+3	00025	537.4		I	BAROM					S									USGS-WRD
+3	00063	17		I						S									USGS-WRD
+3	00010	7.51		I	THM01					S									USGS-WRD
+3	00095	37		I	SC001					S									USGS-WRD
+3	00300	8.82		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = 11.6C, BP = 537.0 mmHg; CHART VALUE = 7.7 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED VALUE = 7.69 mg/L"		USGS-WRD
+3	00400	7.52		I	PROBE					S									USGS-WRD
+3	50280	1001		I						S									USGS-WRD
+3	50015	0.2		I						S									USGS-WRD
+3	71999	10.00		I						S									USGS-WRD
+3	82398	10		I						S									USGS-WRD
+3	84164	3071		I						S									USGS-WRD
+3	99111	1		I						S									USGS-WRD
+3	01300	0		I						S									USGS-WRD
+3	01305	0		I						S									USGS-WRD
+3	01320	0		I						S									USGS-WRD
+3	01325	0		I						S									USGS-WRD
+3	01330	0		I						S									USGS-WRD
+3	01340	0		I						S									USGS-WRD
+3	01345	0		I						S									USGS-WRD
+3	01350	0		I						S									USGS-WRD
+4	84171	200		I						S									USGS-WRD
+4	00004	0.2		I						S									USGS-WRD
+4	00025	532		I	BAROM					S									USGS-WRD
+4	00061	0.0029		I	QVOLM					S									USGS-WRD
+4	00063	1		I						S									USGS-WRD
+4	00010	4.2		I	THM01					S									USGS-WRD
+4	00095	305		I	SC001					S									USGS-WRD
+4	00300	8.89		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = 11.6C, BP = 537.0 mmHg; CHART VALUE = 7.7 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED VALUE = 7.69 mg/L"		USGS-WRD
+4	00400	3.38		I	PROBE					S									USGS-WRD
+4	50280	1001		I						S									USGS-WRD
+4	71999	10.00		I						S									USGS-WRD
+4	82398	70		I						S									USGS-WRD
+4	84164	8010		I						S									USGS-WRD
+4	99111	10		I						S									USGS-WRD
+4	01300	0		I						S									USGS-WRD
+4	01305	0		I						S									USGS-WRD
+4	01320	0		I						S									USGS-WRD
+4	01325	0		I						S									USGS-WRD
+4	01330	0		I						S									USGS-WRD
+4	01340	0		I						S									USGS-WRD
+4	01345	0		I						S									USGS-WRD
+4	01350	0		I						S									USGS-WRD
+5	84171	200		I						S									USGS-WRD
+5	00063	1		I						S									USGS-WRD
+5	50280	1001		I						S									USGS-WRD
+5	71999	10.00		I						S									USGS-WRD
+5	82398	8010		I						S									USGS-WRD
+5	84164	8010		I						S									USGS-WRD
+5	99100	10		I						S									USGS-WRD
+5	99101	10		I						S									USGS-WRD
+5	99102	100		I						S									USGS-WRD
+6	84171	200		I						S									USGS-WRD
+6	00004	0.4		I						S									USGS-WRD
+6	00025	529.3		I	BAROM					S									USGS-WRD
+6	00061	0.0019		I	QVOLM					S									USGS-WRD
+6	00063	1		I						S									USGS-WRD
+6	00010	4.11		I	THM01					S									USGS-WRD
+6	00095	181		I	SC001					S									USGS-WRD
+6	00300	0.62		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = 11.6C, BP = 537.0 mmHg; CHART VALUE = 7.7 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED VALUE = 7.69 mg/L"		USGS-WRD
+6	00400	5.73		I	PROBE					S									USGS-WRD
+6	50280	1001		I						S									USGS-WRD
+6	71999	10.00		I						S									USGS-WRD
+6	82398	70		I						S									USGS-WRD
+6	84164	8010		I						S									USGS-WRD
+6	99111	30		I						S									USGS-WRD
+6	01300	0		I						S									USGS-WRD
+6	01305	0		I						S									USGS-WRD
+6	01320	0		I						S									USGS-WRD
+6	01325	0		I						S									USGS-WRD
+6	01330	0		I						S									USGS-WRD
+6	01340	0		I						S									USGS-WRD
+6	01345	0		I						S									USGS-WRD
+6	01350	0		I						S									USGS-WRD
+7	84171	200		I						S									USGS-WRD
+7	00004	4		I						S									USGS-WRD
+7	00025	535.2		I	BAROM					S									USGS-WRD
+7	00061	0.1		I	QVOLM					S									USGS-WRD
+7	00063	1		I						S									USGS-WRD
+7	00010	7.86		I	THM01					S									USGS-WRD
+7	00095	417		I	SC001					S									USGS-WRD
+7	00300	4.73		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = 11.6C, BP = 537.0 mmHg; CHART VALUE = 7.7 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED VALUE = 7.69 mg/L"		USGS-WRD
+7	00400	6.36		I	PROBE					S									USGS-WRD
+7	50280	1001		I						S									USGS-WRD
+7	71999	10.00		I						S									USGS-WRD
+7	82398	70		I						S									USGS-WRD
+7	84164	3071		I						S									USGS-WRD
+7	99111	1		I						S									USGS-WRD
+7	01300	0		I						S									USGS-WRD
+7	01305	0		I						S									USGS-WRD
+7	01320	0		I						S									USGS-WRD
+7	01325	0		I						S									USGS-WRD
+7	01330	0		I						S									USGS-WRD
+7	01340	0		I						S									USGS-WRD
+7	01345	0		I						S									USGS-WRD
+7	01350	0		I						S									USGS-WRD
+8	84171	200		I						S									USGS-WRD
+8	00004	1		I						S									USGS-WRD
+8	00025	537.9		I	BAROM					S									USGS-WRD
+8	00061	0.0062		I	QVOLM					S									USGS-WRD
+8	00063	1		I						S									USGS-WRD
+8	00010	5.44		I	THM01					S									USGS-WRD
+8	00095	537.9		I	SC001					S									USGS-WRD
+8	00300	6.26		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+8	00400	7.18		I	PROBE					S									USGS-WRD
+8	50280	1001		I						S									USGS-WRD
+8	71999	10.00		I						S									USGS-WRD
+8	82398	70		I						S									USGS-WRD
+8	84164	3071		I						S									USGS-WRD
+8	99111	1		I						S									USGS-WRD
+8	01300	0		I						S									USGS-WRD
+8	01305	0		I						S									USGS-WRD
+8	01320	0		I						S									USGS-WRD
+8	01325	0		I						S									USGS-WRD
+8	01330	0		I						S									USGS-WRD
+8	01340	0		I						S									USGS-WRD
+8	01345	0		I						S									USGS-WRD
+8	01350	0		I						S									USGS-WRD
+9	84171	200		I						S									USGS-WRD
+9	00004	0.1		I						S									USGS-WRD
+9	00025	536.6		I	BAROM					S									USGS-WRD
+9	00061	0.00077		I	QVOLM					S									USGS-WRD
+9	00063	1		I						S									USGS-WRD
+9	00010	7.67		I	THM01					S									USGS-WRD
+9	00095	185		I	SC001					S									USGS-WRD
+9	00300	4.25		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+9	00400	6.47		I	PROBE					S									USGS-WRD
+9	50280	1001		I						S									USGS-WRD
+9	71999	10.00		I						S									USGS-WRD
+9	82398	70		I						S									USGS-WRD
+9	84164	3071		I						S									USGS-WRD
+9	99111	1		I						S									USGS-WRD
+9	01300	0		I						S									USGS-WRD
+9	01305	0		I						S									USGS-WRD
+9	01320	0		I						S									USGS-WRD
+9	01325	0		I						S									USGS-WRD
+9	01330	0		I						S									USGS-WRD
+9	01340	0		I						S									USGS-WRD
+9	01345	0		I						S									USGS-WRD
+9	01350	0		I						S									USGS-WRD
+10	84171	200		I						S									USGS-WRD
+10	00004	0.5		I						S									USGS-WRD
+10	00025	533.3		I	BAROM					S									USGS-WRD
+10	00061	0.003		I	QVOLM					S									USGS-WRD
+10	00063	1		I						S									USGS-WRD
+10	00010	7.7		I	THM01					S									USGS-WRD
+10	00095	183		I	SC001					S									USGS-WRD
+10	00300	0.27		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+10	00400	6.8		I	PROBE					S									USGS-WRD
+10	50280	1001		I						S									USGS-WRD
+10	71999	10.00		I						S									USGS-WRD
+10	82398	70		I						S									USGS-WRD
+10	84164	3071		I						S									USGS-WRD
+10	99111	1		I						S									USGS-WRD
+10	01300	0		I						S									USGS-WRD
+10	01305	0		I						S									USGS-WRD
+10	01320	0		I						S									USGS-WRD
+10	01325	0		I						S									USGS-WRD
+10	01330	0		I						S									USGS-WRD
+10	01340	0		I						S									USGS-WRD
+10	01345	0		I						S									USGS-WRD
+10	01350	0		I						S									USGS-WRD
+11	84171	200		I						S									USGS-WRD
+11	00004	1		I						S									USGS-WRD
+11	00025	528.5		I	BAROM					S									USGS-WRD
+11	00061	0.0081		I	QVOLM					S									USGS-WRD
+11	00063	1		I						S									USGS-WRD
+11	00010	9.41		I	THM01					S									USGS-WRD
+11	00095	426		I	SC001					S									USGS-WRD
+11	00300	6.6		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+11	00400	4.07		I	PROBE					S									USGS-WRD
+11	50280	1001		I						S									USGS-WRD
+11	71999	10.00		I						S									USGS-WRD
+11	82398	70		I						S									USGS-WRD
+11	84164	3071		I						S									USGS-WRD
+11	99111	1		I						S									USGS-WRD
+11	01300	0		I						S									USGS-WRD
+11	01305	0		I						S									USGS-WRD
+11	01320	0		I						S									USGS-WRD
+11	01325	0		I						S									USGS-WRD
+11	01330	0		I						S									USGS-WRD
+11	01340	0		I						S									USGS-WRD
+11	01345	0		I						S									USGS-WRD
+11	01350	0		I						S									USGS-WRD
+12	84171	200		I						S									USGS-WRD
+12	00004	1		I						S									USGS-WRD
+12	00025	534.4		I	BAROM					S									USGS-WRD
+12	00061	0.0251		I	QVOLM					S									USGS-WRD
+12	00063	1		I						S									USGS-WRD
+12	00010	8.85		I	THM01					S									USGS-WRD
+12	00095	542		I	SC001					S									USGS-WRD
+12	00300	8.15		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+12	00400	3.8		I	PROBE					S									USGS-WRD
+12	50280	1001		I						S									USGS-WRD
+12	71999	10.00		I						S									USGS-WRD
+12	82398	70		I						S									USGS-WRD
+12	84164	8010		I						S									USGS-WRD
+12	01300	0		I						S									USGS-WRD
+12	01305	0		I						S									USGS-WRD
+12	01320	0		I						S									USGS-WRD
+12	01325	0		I						S									USGS-WRD
+12	01330	0		I						S									USGS-WRD
+12	01340	0		I						S									USGS-WRD
+12	01345	0		I						S									USGS-WRD
+12	01350	0		I						S									USGS-WRD
+14	84171	200		I						S									USGS-WRD
+14	00004	4		I						S									USGS-WRD
+14	00025	534.0		I	BAROM					S									USGS-WRD
+14	00061	0.0229		I	QVOLM					S									USGS-WRD
+14	00063	1		I						S									USGS-WRD
+14	00010	6.53		I	THM01					S									USGS-WRD
+14	00095	898		I	SC001					S									USGS-WRD
+14	00300	0.19		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+14	00400	5.9		I	PROBE					S									USGS-WRD
+14	50280	1001		I						S									USGS-WRD
+14	71999	10.00		I						S									USGS-WRD
+14	82398	70		I						S									USGS-WRD
+14	84164	3071		I						S									USGS-WRD
+14	99111	1		I						S									USGS-WRD
+14	01300	0		I						S									USGS-WRD
+14	01305	0		I						S									USGS-WRD
+14	01320	0		I						S									USGS-WRD
+14	01325	0		I						S									USGS-WRD
+14	01330	0		I						S									USGS-WRD
+14	01340	0		I						S									USGS-WRD
+14	01345	0		I						S									USGS-WRD
+14	01350	0		I						S									USGS-WRD
+15	84171	200		I						S									USGS-WRD
+15	00004	1		I						S									USGS-WRD
+15	00025	537.1		I	BAROM					S									USGS-WRD
+15	00061	0.0168		I	QFLUM					S							"4 Baski, Ha = 0.09"		USGS-WRD
+15	00063	1		I						S									USGS-WRD
+15	00010	11.38		I	THM01					S									USGS-WRD
+15	00095	577		I	SC001					S									USGS-WRD
+15	00300	6.07		I	MEMBR					S									USGS-WRD
+15	00400	3.81		I	PROBE					S									USGS-WRD
+15	50280	1001		I						S									USGS-WRD
+15	71999	10.00		I						S									USGS-WRD
+15	82398	70		I						S									USGS-WRD
+15	84164	8010		I						S									USGS-WRD
+15	99111	10		I						S									USGS-WRD
+15	01300	0		I						S									USGS-WRD
+15	01305	0		I						S									USGS-WRD
+15	01320	0		I						S									USGS-WRD
+15	01325	0		I						S									USGS-WRD
+15	01330	0		I						S									USGS-WRD
+15	01340	0		I						S									USGS-WRD
+15	01345	0		I						S									USGS-WRD
+15	01350	0		I						S									USGS-WRD
+16	84171	200		I						S									USGS-WRD
+16	00004	1.5		I						S									USGS-WRD
+16	00025	536		I	BAROM					S									USGS-WRD
+16	00061	0.0242		I	QFLUM					S									USGS-WRD
+16	00063	1		I						S									USGS-WRD
+16	00010	9.4		I	THM01					S									USGS-WRD
+16	00095	525		I	SC001					S									USGS-WRD
+16	00300	7.02		I	MEMBR					S									USGS-WRD
+16	00400	4.54		I	PROBE					S									USGS-WRD
+16	50280	1001		I						S									USGS-WRD
+16	71999	10.00		I						S									USGS-WRD
+16	82398	70		I						S									USGS-WRD
+16	84164	3071		I						S									USGS-WRD
+16	99111	10		I						S									USGS-WRD
+16	01300	0		I						S									USGS-WRD
+16	01305	0		I						S									USGS-WRD
+16	01320	0		I						S									USGS-WRD
+16	01325	0		I						S									USGS-WRD
+16	01330	0		I						S									USGS-WRD
+16	01340	0		I						S									USGS-WRD
+16	01345	0		I						S									USGS-WRD
+16	01350	0		I						S									USGS-WRD
+17	84171	200		I						S									USGS-WRD
+17	00004	1.5		I						S									USGS-WRD
+17	00025	535.9		I	BAROM					S									USGS-WRD
+17	00061	0.0221		I	QFLUM					S									USGS-WRD
+17	00063	1		I						S									USGS-WRD
+17	00010	7.57		I	THM01					S									USGS-WRD
+17	00095	452		I	SC001					S									USGS-WRD
+17	00300	3.42		I	MEMBR					S									USGS-WRD
+17	00400	4.37		I	PROBE					S									USGS-WRD
+17	50280	1001		I						S									USGS-WRD
+17	71999	10.00		I						S									USGS-WRD
+17	82398	70		I						S									USGS-WRD
+17	84164	8010		I						S									USGS-WRD
+17	01300	0		I						S									USGS-WRD
+17	01305	0		I						S									USGS-WRD
+17	01320	0		I						S									USGS-WRD
+17	01325	0		I						S									USGS-WRD
+17	01330	0		I						S									USGS-WRD
+17	01340	0		I						S									USGS-WRD
+17	01345	0		I						S									USGS-WRD
+17	01350	0		I						S									USGS-WRD
+18	84171	200		I						S									USGS-WRD
+18	00004	1.5		I						S									USGS-WRD
+18	00025	537.1		I	BAROM					S									USGS-WRD
+18	00061	0.0221		I	QFLUM					S									USGS-WRD
+18	00063	1		I						S									USGS-WRD
+18	00010	7.56		I	THM01					S									USGS-WRD
+18	00095	452		I	SC001					S									USGS-WRD
+18	00300	3.40		I	MEMBR					S									USGS-WRD
+18	00400	4.37		I	PROBE					S									USGS-WRD
+18	50280	1001		I						S									USGS-WRD
+18	71999	10.00		I						S									USGS-WRD
+18	82398	70		I						S									USGS-WRD
+18	84164	8010		I						S									USGS-WRD
+18	01300	0		I						S									USGS-WRD
+18	01305	0		I						S									USGS-WRD
+18	01320	0		I						S									USGS-WRD
+18	01325	0		I						S									USGS-WRD
+18	01330	0		I						S									USGS-WRD
+18	01340	0		I						S									USGS-WRD
+18	01345	0		I						S									USGS-WRD
+18	01350	0		I						S									USGS-WRD
+19	84171	200		I						S									USGS-WRD
+19	00004	10		I						S									USGS-WRD
+19	00025	537.7		I	BAROM					S									USGS-WRD
+19	00061	0.00023		I	QVOLM					S									USGS-WRD
+19	00063	1		I						S									USGS-WRD
+19	00010	14.39		I	THM01					S									USGS-WRD
+19	00095	499		I	SC001					S									USGS-WRD
+19	00300	5.18		I	MEMBR					S									USGS-WRD
+19	00400	3.75		I	PROBE					S									USGS-WRD
+19	50280	1001		I						S									USGS-WRD
+19	71999	10.00		I						S									USGS-WRD
+19	82398	70		I						S									USGS-WRD
+19	84164	3071		I						S									USGS-WRD
+19	99111	1		I						S									USGS-WRD
+19	01300	0		I						S									USGS-WRD
+19	01305	0		I						S									USGS-WRD
+19	01320	0		I						S									USGS-WRD
+19	01325	0		I						S									USGS-WRD
+19	01330	0		I						S									USGS-WRD
+19	01340	0		I						S									USGS-WRD
+19	01345	0		I						S									USGS-WRD
+19	01350	0		I						S									USGS-WRD
+20	84171	200		I						S									USGS-WRD
+20	00004	1		I						S									USGS-WRD
+20	00025	544.4		I	BAROM					S									USGS-WRD
+20	00061	0.0313		I	QFLUM					S							"1 baski, ha = 0.25"		USGS-WRD
+20	00063	1		I						S									USGS-WRD
+20	00010	10.54		I	THM01					S									USGS-WRD
+20	00095	941		I	SC001					S									USGS-WRD
+20	00300	6.61		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = --C, BP = -- mmHg; CHART VALUE = -- mg/L; INITIAL VALUE = 8.07 mg/L, ADJUSTED VALUE = 7.72 mg/L"		USGS-WRD
+20	00400	6.64		I	PROBE					S									USGS-WRD
+20	50280	1001		I						S									USGS-WRD
+20	71999	10.00		I						S									USGS-WRD
+20	82398	70		I						S									USGS-WRD
+20	84164	3071		I						S									USGS-WRD
+20	99111	1		I						S									USGS-WRD
+20	01300	0		I						S									USGS-WRD
+20	01305	0		I						S									USGS-WRD
+20	01320	0		I						S									USGS-WRD
+20	01325	0		I						S									USGS-WRD
+20	01330	0		I						S									USGS-WRD
+20	01340	0		I						S									USGS-WRD
+20	01345	0		I						S									USGS-WRD
+20	01350	0		I						S									USGS-WRD
+21	84171	200		I						S									USGS-WRD
+21	00004	17		I						S									USGS-WRD
+21	00025	539.2		I	BAROM					S									USGS-WRD
+21	00063	17		I						S									USGS-WRD
+21	00010	7.54		I	THM01					S									USGS-WRD
+21	00095	24		I	SC001					S									USGS-WRD
+21	00300	9.21		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = --C, BP = -- mmHg; CHART VALUE = -- mg/L; INITIAL VALUE = 8.07 mg/L, ADJUSTED VALUE = 7.72 mg/L"		USGS-WRD
+21	00400	7.02		I	PROBE					S									USGS-WRD
+21	50280	1001		I						S									USGS-WRD
+21	71999	10.00		I						S									USGS-WRD
+21	82398	10		I						S									USGS-WRD
+21	84164	3044		I						S									USGS-WRD
+21	99111	1		I						S									USGS-WRD
+21	01300	0		I						S									USGS-WRD
+21	01305	0		I						S									USGS-WRD
+21	01320	0		I						S									USGS-WRD
+21	01325	0		I						S									USGS-WRD
+21	01330	0		I						S									USGS-WRD
+21	01340	0		I						S									USGS-WRD
+21	01345	0		I						S									USGS-WRD
+21	01350	0		I						S									USGS-WRD
+22	84171	200		I						S									USGS-WRD
+22	00004	1		I						S									USGS-WRD
+22	00025	534.6		I	BAROM					S									USGS-WRD
+22	00061	0.06		I	QVOLM					S									USGS-WRD
+22	00063	1		I						S									USGS-WRD
+22	00010	6.09		I	THM01					S									USGS-WRD
+22	00095	175		I	SC001					S									USGS-WRD
+22	00300	7.03		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.13C, BP = 530.9 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.93 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+22	00400	6.00		I	PROBE					S									USGS-WRD
+22	50280	1001		I						S									USGS-WRD
+22	71999	10.00		I						S									USGS-WRD
+22	82398	70		I						S									USGS-WRD
+22	84164	3071		I						S									USGS-WRD
+22	99111	1		I						S									USGS-WRD
+22	01300	0		I						S									USGS-WRD
+22	01305	0		I						S									USGS-WRD
+22	01320	0		I						S									USGS-WRD
+22	01325	0		I						S									USGS-WRD
+22	01330	0		I						S									USGS-WRD
+22	01340	0		I						S									USGS-WRD
+22	01345	0		I						S									USGS-WRD
+22	01350	0		I						S									USGS-WRD
+23	84171	200		I						S									USGS-WRD
+23	00004	0.5		I						S									USGS-WRD
+23	00025	536.6		I	BAROM					S									USGS-WRD
+23	00061	0.045		I	QFLUM					S									USGS-WRD
+23	00063	1		I						S									USGS-WRD
+23	00010	6.92		I	THM01					S									USGS-WRD
+23	00095	661		I	SC001					S									USGS-WRD
+23	00300	7.89		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.13C, BP = 530.9 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.93 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+23	00400	4.51		I	PROBE					S									USGS-WRD
+23	50280	1001		I						S									USGS-WRD
+23	71999	10.00		I						S									USGS-WRD
+23	82398	70		I						S									USGS-WRD
+23	84164	8010		I						S									USGS-WRD
+23	99111	10		I						S									USGS-WRD
+23	01300	0		I						S									USGS-WRD
+23	01305	0		I						S									USGS-WRD
+23	01320	0		I						S									USGS-WRD
+23	01325	0		I						S									USGS-WRD
+23	01330	0		I						S									USGS-WRD
+23	01340	0		I						S									USGS-WRD
+23	01345	0		I						S									USGS-WRD
+23	01350	0		I						S									USGS-WRD
+24	84171	200		I						S									USGS-WRD
+24	50280	1001		I						S									USGS-WRD
+24	71999	10.00		I						S									USGS-WRD
+24	82398	8010		I						S									USGS-WRD
+24	84164	8010		I						S									USGS-WRD
+24	99100	10		I						S									USGS-WRD
+24	99101	10		I						S									USGS-WRD
+24	99102	100		I						S									USGS-WRD
+25	84171	200		I						S									USGS-WRD
+25	00004	1		I						S									USGS-WRD
+25	00025	535.6		I	BAROM					S									USGS-WRD
+25	00061	0.0481		I	QFLUM					S							"1 baski, ha = 0.31"		USGS-WRD
+25	00063	1		I						S									USGS-WRD
+25	00010	7.60		I	THM01					S									USGS-WRD
+25	00095	843		I	SC001					S									USGS-WRD
+25	00300	6.28		I	MEMBR					S									USGS-WRD
+25	00400	4.55		I	PROBE					S									USGS-WRD
+25	50280	1001		I						S									USGS-WRD
+25	71999	10.00		I						S									USGS-WRD
+25	82398	70		I						S									USGS-WRD
+25	84164	8010		I						S									USGS-WRD
+25	99111	30		I						S									USGS-WRD
+25	01300	0		I						S									USGS-WRD
+25	01305	0		I						S									USGS-WRD
+25	01320	0		I						S									USGS-WRD
+25	01325	0		I						S									USGS-WRD
+25	01330	0		I						S									USGS-WRD
+25	01340	0		I						S									USGS-WRD
+25	01345	0		I						S									USGS-WRD
+25	01350	0		I						S									USGS-WRD
+26	84171	200		I						S									USGS-WRD
+26	00004	1		I						S									USGS-WRD
+26	00025	535.1		I	BAROM					S									USGS-WRD
+26	00061	0.0481		I	QFLUM					S									USGS-WRD
+26	00063	1		I						S									USGS-WRD
+26	00010	7.61		I	THM01					S									USGS-WRD
+26	00095	843		I	SC001					S									USGS-WRD
+26	00300	6.27		I	MEMBR					S									USGS-WRD
+26	00400	4.54		I	PROBE					S									USGS-WRD
+26	50280	1001		I						S									USGS-WRD
+26	71999	10.00		I						S									USGS-WRD
+26	82398	70		I						S									USGS-WRD
+26	84164	8010		I						S									USGS-WRD
+26	01300	0		I						S									USGS-WRD
+26	01305	0		I						S									USGS-WRD
+26	01320	0		I						S									USGS-WRD
+26	01325	0		I						S									USGS-WRD
+26	01330	0		I						S									USGS-WRD
+26	01340	0		I						S									USGS-WRD
+26	01345	0		I						S									USGS-WRD
+26	01350	0		I						S									USGS-WRD
+27	84171	200		I						S									USGS-WRD
+27	00004	1.5		I						S									USGS-WRD
+27	00025	533		I	BAROM					S									USGS-WRD
+27	00061	0.0445		I	QVOLM					S									USGS-WRD
+27	00063	1		I						S									USGS-WRD
+27	00010	7.83		I	THM01					S									USGS-WRD
+27	00095	975		I	SC001					S									USGS-WRD
+27	00300	8.27		I	MEMBR					S									USGS-WRD
+27	00400	4.89		I	PROBE					S									USGS-WRD
+27	50280	1001		I						S									USGS-WRD
+27	71999	10.00		I						S									USGS-WRD
+27	82398	70		I						S									USGS-WRD
+27	84164	3071		I						S									USGS-WRD
+27	99111	1		I						S									USGS-WRD
+27	01300	0		I						S									USGS-WRD
+27	01305	0		I						S									USGS-WRD
+27	01320	0		I						S									USGS-WRD
+27	01325	0		I						S									USGS-WRD
+27	01330	0		I						S									USGS-WRD
+27	01340	0		I						S									USGS-WRD
+27	01345	0		I						S									USGS-WRD
+27	01350	0		I						S									USGS-WRD
+28	84171	200		I						S									USGS-WRD
+28	00004	1		I						S									USGS-WRD
+28	00025	532.5		I	BAROM					S									USGS-WRD
+28	00061	0.008		I	QVOLM					S									USGS-WRD
+28	00063	1		I						S									USGS-WRD
+28	00010	6.64		I	THM01					S									USGS-WRD
+28	00095	100		I	SC001					S									USGS-WRD
+28	00300	7.07		I	MEMBR					S									USGS-WRD
+28	00400	6.55		I	PROBE					S									USGS-WRD
+28	50280	1001		I						S									USGS-WRD
+28	71999	10.00		I						S									USGS-WRD
+28	82398	70		I						S									USGS-WRD
+28	84164	3071		I						S									USGS-WRD
+28	99111	1		I						S									USGS-WRD
+28	01300	0		I						S									USGS-WRD
+28	01305	0		I						S									USGS-WRD
+28	01320	0		I						S									USGS-WRD
+28	01325	0		I						S									USGS-WRD
+28	01330	0		I						S									USGS-WRD
+28	01340	0		I						S									USGS-WRD
+28	01345	0		I						S									USGS-WRD
+28	01350	0		I						S									USGS-WRD
+29	84171	200		I						S									USGS-WRD
+29	00004	0.5		I						S									USGS-WRD
+29	00025	531.6		I	BAROM					S									USGS-WRD
+29	00061	0.0101		I	QVOLM					S									USGS-WRD
+29	00063	1		I						S									USGS-WRD
+29	00010	7.5		I	THM01					S									USGS-WRD
+29	00095	485		I	SC001					S									USGS-WRD
+29	00300	6.81		I	MEMBR					S									USGS-WRD
+29	00400	4.36		I	PROBE					S									USGS-WRD
+29	50280	1001		I						S									USGS-WRD
+29	71999	10.00		I						S									USGS-WRD
+29	82398	70		I						S									USGS-WRD
+29	84164	3071		I						S									USGS-WRD
+29	99111	1		I						S									USGS-WRD
+29	01300	0		I						S									USGS-WRD
+29	01305	0		I						S									USGS-WRD
+29	01320	0		I						S									USGS-WRD
+29	01325	0		I						S									USGS-WRD
+29	01330	0		I						S									USGS-WRD
+29	01340	0		I						S									USGS-WRD
+29	01345	0		I						S									USGS-WRD
+29	01350	0		I						S									USGS-WRD
+30	84171	200		I						S									USGS-WRD
+30	00004	0.5		I						S									USGS-WRD
+30	00025	534.1		I	BAROM					S									USGS-WRD
+30	00061	0.0051		I	QVOLM					S									USGS-WRD
+30	00063	1		I						S									USGS-WRD
+30	00010	6.68		I	THM01					S									USGS-WRD
+30	00095	1204		I	SC001					S									USGS-WRD
+30	00300	7.73		I	MEMBR					S									USGS-WRD
+30	00400	5.54		I	PROBE					S									USGS-WRD
+30	50280	1001		I						S									USGS-WRD
+30	71999	10.00		I						S									USGS-WRD
+30	82398	70		I						S									USGS-WRD
+30	84164	3071		I						S									USGS-WRD
+30	99111	1		I						S									USGS-WRD
+30	01300	0		I						S									USGS-WRD
+30	01305	0		I						S									USGS-WRD
+30	01320	0		I						S									USGS-WRD
+30	01325	0		I						S									USGS-WRD
+30	01330	0		I						S									USGS-WRD
+30	01340	0		I						S									USGS-WRD
+30	01345	0		I						S									USGS-WRD
+30	01350	0		I						S									USGS-WRD
+31	84171	200		I						S									USGS-WRD
+31	00004	2		I						S									USGS-WRD
+31	00025	537.9		I	BAROM					S									USGS-WRD
+31	00061	0.0113		I	QFLUM					S							"1 baski, ha= 0.15 hb = 0.04"		USGS-WRD
+31	00063	1		I						S									USGS-WRD
+31	00010	10.93		I	THM01					S									USGS-WRD
+31	00095	1168		I	SC001					S									USGS-WRD
+31	00300	6.03		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.13C, BP = 530.9 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.93 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+31	00400	6.34		I	PROBE					S									USGS-WRD
+31	50280	1001		I						S									USGS-WRD
+31	71999	10.00		I						S									USGS-WRD
+31	82398	70		I						S									USGS-WRD
+31	84164	3071		I						S									USGS-WRD
+31	99111	1		I						S									USGS-WRD
+31	01300	0		I						S									USGS-WRD
+31	01305	0		I						S									USGS-WRD
+31	01320	0		I						S									USGS-WRD
+31	01325	0		I						S									USGS-WRD
+31	01330	0		I						S									USGS-WRD
+31	01340	0		I						S									USGS-WRD
+31	01345	0		I						S									USGS-WRD
+31	01350	0		I						S									USGS-WRD
+32	84171	200		I						S									USGS-WRD
+32	00025	536.7		I	BAROM					S									USGS-WRD
+32	00063	1		I						S									USGS-WRD
+32	00010	9.26		I	THM01					S									USGS-WRD
+32	00095	1194		I	SC001					S									USGS-WRD
+32	00300	3.13		I	MEMBR					S							"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.13C, BP = 530.9 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.93 mg/L, ADJUSTED VALUE = -- mg/L"		USGS-WRD
+32	00400	5.91		I	PROBE					S									USGS-WRD
+32	50280	1001		I						S									USGS-WRD
+32	71999	10.00		I						S									USGS-WRD
+32	82398	70		I						S									USGS-WRD
+32	84164	3071		I						S									USGS-WRD
+32	99111	1		I						S									USGS-WRD
+32	01300	0		I						S									USGS-WRD
+32	01305	0		I						S									USGS-WRD
+32	01320	0		I						S									USGS-WRD
+32	01325	0		I						S									USGS-WRD
+32	01330	0		I						S									USGS-WRD
+32	01340	0		I						S									USGS-WRD
+32	01345	0		I						S									USGS-WRD
+32	01350	0		I						S									USGS-WRD
+36	84171	200		I						S									USGS-WRD
+36	00004	0.4		I						S									USGS-WRD
+36	00025	529.3		I	BAROM					S									USGS-WRD
+36	00061	0.00151		I	QVOLM					S									USGS-WRD
+36	00063	1		I						S									USGS-WRD
+36	00010	4.11		I	THM01					S									USGS-WRD
+36	00095	181		I	SC001					S									USGS-WRD
+36	00300	0.59		I	MEMBR					S									USGS-WRD
+36	00400	5.73		I	PROBE					S									USGS-WRD
+36	50280	1001		I						S									USGS-WRD
+36	71999	10.00		I						S									USGS-WRD
+36	82398	70		I						S									USGS-WRD
+36	84164	8010		I						S									USGS-WRD
+36	01300	0		I						S									USGS-WRD
+36	01305	0		I						S									USGS-WRD
+36	01320	0		I						S									USGS-WRD
+36	01325	0		I						S									USGS-WRD
+36	01330	0		I						S									USGS-WRD
+36	01340	0		I						S									USGS-WRD
+36	01345	0		I						S									USGS-WRD
+36	01350	0		I						S									USGS-WRD

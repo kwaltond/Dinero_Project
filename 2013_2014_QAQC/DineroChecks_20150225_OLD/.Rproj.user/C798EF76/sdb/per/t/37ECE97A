@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1425308927276.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "37ECE97A",
+    "lastKnownWriteTime" : 1768302177,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "qwdata",
+        "contentUrl" : "content?title=qwdata&file=535b880d7e5845d2b791bb1809367bba.htm",
+        "displayedObservations" : "141",
+        "displayedVariables" : 66,
+        "totalObservations" : "141",
+        "variables" : "65"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

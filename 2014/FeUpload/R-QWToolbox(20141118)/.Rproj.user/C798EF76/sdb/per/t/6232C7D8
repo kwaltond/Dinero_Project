@@ -1,0 +1,16 @@
+{
+    "contents" : "\n\nsource(\"R/widgetfunctions.r\")\nsource(\"R/plottypes.r\")\nsource(\"R/preferences.r\")\nsource(\"R/libraries.r\")\nsource(\"R/NWISUploadRV1_4(20141118).r\")\nsource(\"R/NWIS_PullR(20141113).r\")\n\n##################\n###Main window\n##################\n\nw <- gwindow(\"Toolkit example\")\nvisible(w) <- FALSE #Hide the GUI until its fully built\n\n###Toolbar setup\ntbl <- list()\ntbl$Save <- list(icon=\"save\",handler = function(...) print(\"save\"))\ntbl$Open <- list(icon=\"open\",handler = function(...) print(\"open\"))\ntbl$New <- list(icon=\"new\",handler = function(...) print(\"new\"))\ntbl$Quit <- list(icon=\"close\",handler = function(...) print(\"quit\"))\ntb <- gtoolbar(tbl, container=w)\n\n###Notebook\nnb <- gnotebook(container=w)\n\n###################\n###Data import Tab\n###################\n\nsource(\"R/Dataimport_GUI.R\")\n\n###################\n###Plotting tab\n###################\nsource(\"R/plotting_GUI.R\")\n###################\n###Blanks and reps tab\n###################\n\n\n###################\n###DQI Tab\n###################\n\n\n\n#####################\n###Data Upload tab\n#####################\nsource(\"R/NWISUploadR_GUI_V1.r\")\n\n\nvisible(w) <- TRUE\n",
+    "created" : 1416340153273.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3576638535",
+    "id" : "6232C7D8",
+    "lastKnownWriteTime" : 1416342770,
+    "path" : "Z:/tmills/Dinero/2014/FeUpload/R-QWToolbox(20141118)/R/RQW-Toolbox_V0_1.R",
+    "project_path" : "R/RQW-Toolbox_V0_1.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

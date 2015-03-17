@@ -1,0 +1,16 @@
+{
+    "contents" : "# Note must be run in 32-bit mode for drivers\nlibrary(RODBC)\nlibrary(lubridate)\nlibrary(plyr)\nlibrary(xtable)\nlibrary(stringr)\nlibrary(reshape2)\nlibrary(ggplot2)\nlibrary(grid)\nlibrary(extrafont)\nlibrary(USGSwsQW)\nloadfonts(device=\"pdf\")\n#------ begin user input\n# Set the DSN for the nwis database\nDSN <- \"NWISCO\"\n# get station IDs\nQWsample <- read.delim(\"PCFF/qwsample.20141016.155915\",header=FALSE,colClasses = \"character\")\n\n#Get staiton IDs\nSTAID <- QWsample[[4]]\n\n# Set the range of dates in POSIX format, NOT IMPLEMENTED YET\n# set BEGIN to \"\" to retrieve data from the earliest record\n# set END to \"\" to retrieve data to the most current record\nBEGIN <- \"2014-05-01 00:00:00\"\nEND <- \"2014-09-24 24:00:00\"\n#------ end of user input\n\n#################################\n###Pulls data and formats into a readable table and a melted plot table\nTables <- NWISPullR(STAID)\n\nPlotData <- Tables$PlotTable\nTableData <- Tables$DataTable\n############################\n\n###Subet to 2014 samples\nTableData$SAMPLE_START_DT_DATE <- as.Date(TableData$SAMPLE_START_DT)\nData2014 <- subset(TableData, SAMPLE_START_DT_DATE >= BEGIN & \n                     SAMPLE_START_DT_DATE  <= END)\n###output pH SC table\nphSC2014 <- Data2014[c(\"SITE_NO\",\"STATION_NM\",\"SAMPLE_START_DT\",\"MEDIUM_CD\",\"pH\",\"Specific cond at 25C\")]\n\nwrite.table(phSC2014,file=\"pHSCTable\",sep =\"\\t\",col.names=TRUE,row.names=FALSE,quote=FALSE)\n\n###Plot timeseries of all parameters. this may take a LONG time depending on number of sites and parameters\nPlotR(PlotData)\n###############\n\n\n",
+    "created" : 1413496875853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1881463212",
+    "id" : "BA230B8F",
+    "lastKnownWriteTime" : 1413577994,
+    "path" : "Z:/tmills/Dinero/2014/Fall/FallNWIS/Control.R",
+    "project_path" : "Control.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

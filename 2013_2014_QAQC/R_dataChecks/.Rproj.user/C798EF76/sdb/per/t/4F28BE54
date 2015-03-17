@@ -1,0 +1,17 @@
+{
+    "contents" : "library(QWToolbox)\n\nqwtoolbox(\"AllsiteIDs.csv\")\n\nQAdata <- .guiEnv$reports\nrepdata <- QAdata$repTable\nfildata <- QAdata$wholevpartTable\nqw.data <-.guiEnv$qw.data\nplotdata <- qw.data$PlotTable\n###Check for missing data\nparmfile <- read.csv(\"parametergroups.csv\",colClasses=\"character\",header=TRUE,na.strings=\"\")\nparmfile <- parmfile[,c(1:8)]\n\nmissingData <- whatData(qw.data=qw.data,\n\t\t\t\t\t\t\t\t\t\t\t\tsearchParms = parmfile,\n\t\t\t\t\t\t\t\t\t\t\t\tbegin.date = \"2013-01-01\",\n\t\t\t\t\t\t\t\t\t\t\t\tend.date=\"2014-12-31\",\n\t\t\t\t\t\t\t\t\t\t\t\tgroups=TRUE)\nwrite.table(missingData,\"Dinero_2013_2014_missingData_20150223.txt\",sep=\"\\t\")\n\nmissingiso <- subset(plotdata, RECORD_NO == \"01305854\")\n",
+    "created" : 1423496901151.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "669570041",
+    "id" : "4F28BE54",
+    "lastKnownWriteTime" : 1424819451,
+    "path" : "Z:/tmills/Dinero/2013_2014_QAQC/R_dataChecks/qwtoolbox.R",
+    "project_path" : "qwtoolbox.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

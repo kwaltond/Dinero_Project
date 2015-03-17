@@ -1,0 +1,47 @@
+1
+ SINT: 00001040177181      Process date: 01-30-2014 05:40  --  Transaction number:   11
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391517106230602       Site Name: LSG-06 LITTLE SUGARLOAF GL 6 NR LEADVILLE, CO
+ Begin Date and Time: 2013-09-20 1235  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020037
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--L-3020037 X=improper sample container FU - 125mL
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040177181 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040177181 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001040177181 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001040177181 Time datum defaults to site default: MDT
+ SINT 00001040177181 Time-datum reliability code defaults to K
+ SINT 00001040177181 Collecting agency code defaults to USGS-WRD
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 485 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 00940 IC022 Chloride, wf                  mg/l            0.325     n d       S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ X 00945 IC022 Sulfate, wf                   mg/l          484.829     d         S  3 USGSNWQL          0.09 LT-MDL                       20140126 ICPRE14013A
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+

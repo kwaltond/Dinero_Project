@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1413569426578.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2ECD9106",
+    "lastKnownWriteTime" : 644181097,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "SiteFile",
+        "contentUrl" : "content?title=SiteFile&file=83bcaf95b4854474a0187df2d94f0d35.htm",
+        "displayedObservations" : 25,
+        "displayedVariables" : 59,
+        "totalObservations" : 25,
+        "variables" : 59
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

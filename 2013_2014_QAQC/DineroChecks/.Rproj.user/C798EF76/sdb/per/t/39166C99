@@ -1,0 +1,17 @@
+{
+    "contents" : "library(QWToolbox)\nqwtoolbox(\"AllsiteIDs.csv\")\nsummary <- blankSummary(.guiEnv$qw.data,begin.date = \"2013-01-01\",multiple.levels = FALSE)\n\nwrite.table(summary,file=\"blanksummary.txt\",row.names=FALSE,quote=FALSE,sep=\"\\t\")\n\nqsummary <- qualitySummary(.guiEnv$qw.data,.guiEnv$reports)\nqsummary <- unique(qsummary)\nwrite.table(qsummary,file=\"qualitysummary.txt\",row.names=FALSE,quote=FALSE,sep=\"\\t\")\n\nreps <- .guiEnv$qw.data$PlotTable\nreps <- subset(reps, MEDIUM_CD %in% c(\"WSQ\",\"WGQ\"))\nreps <- unique(reps[c(\"RECORD_NO\",\"SITE_NO\",\"STATION_NM\",\"SAMPLE_START_DT\",\"MEDIUM_CD\",\"SAMP_TYPE_CD\")])\n\nreptable <- reptables()",
+    "created" : 1425410898809.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3765597203",
+    "id" : "39166C99",
+    "lastKnownWriteTime" : 1426525929,
+    "path" : "Z:/tmills/Dinero/2013_2014/2013_2014_QAQC/DineroChecks/mainScript.R",
+    "project_path" : "mainScript.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

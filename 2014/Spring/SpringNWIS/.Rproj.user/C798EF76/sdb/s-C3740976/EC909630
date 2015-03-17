@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1415288938572.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC909630",
+    "lastKnownWriteTime" : 1701601889,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "testtable",
+        "contentUrl" : "content?title=testtable&file=bbd01a328df8496d9132989b04ec8871.htm",
+        "displayedObservations" : 541,
+        "displayedVariables" : 100,
+        "totalObservations" : 541,
+        "variables" : 102
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

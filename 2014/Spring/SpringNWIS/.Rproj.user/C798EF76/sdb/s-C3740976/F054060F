@@ -1,0 +1,17 @@
+{
+    "contents" : "# Note must be run in 32-bit mode for drivers\nlibrary(RODBC)\nlibrary(lubridate)\nlibrary(plyr)\nlibrary(xtable)\nlibrary(stringr)\nlibrary(reshape2)\nlibrary(ggplot2)\nlibrary(grid)\nlibrary(extrafont)\nlibrary(USGSwsQW)\nloadfonts(device=\"pdf\")\n#------ begin user input\n# Set the DSN for the nwis database\nDSN <- \"NWISCO\"\n# get station IDs\nQWsample <- read.table(\"PCFF/qwsample.20140801.095520\",header=FALSE,colClasses = \"character\")\n\n#Get staiton IDs\nSTAID <- QWsample[[2]]\n\n# Set the range of dates in POSIX format, NOT IMPLEMENTED YET\n# set BEGIN to \"\" to retrieve data from the earliest record\n# set END to \"\" to retrieve data to the most current record\nBEGIN <- \"2014-05-01\"\nEND <- \"2014-08-18\"\n#------ end of user input\n\n#################################\n###Pulls data and formats into a readable table and a melted plot table\nTables <- NWISPullR(STAID)\n\nPlotData <- Tables$PlotTable\nTableData <- Tables$DataTable\n############################\n\n###Plot timeseries of all parameters. this may take a LONG time depending on number of sites and parameters\nPlotR(PlotData)\n###############\n\n\n",
+    "created" : 1408475039366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2677103839",
+    "id" : "F054060F",
+    "lastKnownWriteTime" : 1413389747,
+    "path" : "Z:/tmills/Dinero/2014/Spring/SpringNWIS/Control.R",
+    "project_path" : "Control.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

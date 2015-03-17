@@ -1,0 +1,16 @@
+{
+    "contents" : "###Sulfate method check\ndata_2013_2014 <- subset(.guiEnv$qw.data$PlotTable, SAMPLE_START_DT > as.POSIXct(\"2013-01-01\"))\nsulfateData <- subset(data_2013_2014,PARM_CD==\"00945\") \nwrite.table(sulfateData,\"sulfateData\",quote=FALSE,row.names=FALSE,sep=\"\\t\")\n",
+    "created" : 1426527651107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3953747632",
+    "id" : "4C684C9",
+    "lastKnownWriteTime" : 1426541591,
+    "path" : "Z:/tmills/Dinero/2013_2014/2013_2014_QAQC/DineroChecks/sulfatecheck.R",
+    "project_path" : "sulfatecheck.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

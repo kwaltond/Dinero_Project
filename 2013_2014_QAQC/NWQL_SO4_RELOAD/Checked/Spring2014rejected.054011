@@ -1,0 +1,75 @@
+1
+ SINT: 00001066711975      Process date: 09-01-2014 05:40  --  Transaction number:   35
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391600106235701       Site Name: TLS-05 TURQUOISE LAKE SOUTH 5
+ Begin Date and Time: 2014-06-12 1155  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 2170124
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--L-2170124 X=improper sample container FU in 125mL bottle
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001066711975 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066711975 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066711975 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001066711975 Time datum defaults to site default: MDT
+ SINT 00001066711975 Time-datum reliability code defaults to K
+ SINT 00001066711975 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 00940 IC022 Chloride, wf                  mg/l            0.234               S  3 USGSNWQL          0.02 LT-MDL                       20140822 ICPRE14232A
+ X 00945 IC022 Sulfate, wf                   mg/l           10.402               S  3 USGSNWQL          0.02 LT-MDL                       20140822 ICPRE14232A
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066711976      Process date: 09-01-2014 05:40  --  Transaction number:   36
+
+ Record Number: 01402592       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391606106241601       Site Name: SC00908113ADB TL-ADIT
+ Begin Date and Time: 2014-06-12 1240  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 2170125
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 2
+ Sample Field Comment--
+ Sample Lab Comment--L-2170125 X=improper sample container FU in 125mL bottle
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066711976 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066711976 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001066711976 Laboratory-sample comment changed from  to L-2170125 X=improper sample container FU in 125mL bottle
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ N 00940 IC022 Chloride, wf                  mg/l            0.275               S  3 USGSNWQL          0.02 LT-MDL                       20140822 ICPRE14232A
+ N 00945 IC022 Sulfate, wf                   mg/l           88.535               S  3 USGSNWQL          0.02 LT-MDL                       20140822 ICPRE14232A
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+

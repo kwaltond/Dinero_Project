@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1413497593742.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C02C8EE4",
+    "lastKnownWriteTime" : 643920993,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "FallData",
+        "contentUrl" : "content?title=FallData&file=73fcdc37bb834f8a8ebd2564f2b3d09d.htm",
+        "displayedObservations" : 63,
+        "displayedVariables" : 100,
+        "totalObservations" : 63,
+        "variables" : 103
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

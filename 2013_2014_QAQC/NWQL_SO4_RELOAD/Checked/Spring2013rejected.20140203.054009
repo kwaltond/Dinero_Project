@@ -1,0 +1,390 @@
+1
+ SINT: 00001040179006      Process date: 02-03-2014 05:40  --  Transaction number:   10
+
+ Record Number:                Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391443106225701       Site Name: SBG-0 STRAWBERRY GULCH AT MOUTH NR LEADVILLE, CO
+ Begin Date and Time: 2013-05-30 1607  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WSQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134479
+ Analysis Status: I       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179006 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179006 Analysis-status code defaults to I
+ SINT 00001040179006 Hydrologic-condition code defaults to 9
+ SINT 00001040179006 Hydrologic-event code defaults to 9
+ SINT 00001040179006 Time datum defaults to site default: MDT
+ SINT 00001040179006 Time-datum reliability code defaults to K
+ SINT 00001040179006 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -17.56               S  4 USGSSIVA                                            20140130 W134479
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -134.3               S  3 USGSSIVA                                            20140130 W134479
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040178984      Process date: 02-03-2014 05:40  --  Transaction number:   21
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391500106224901       Site Name: UNNAMED MINE DRAINAGE TUNNEL BLW TURQ LK NR LEADVI
+ Begin Date and Time: 2013-09-19 1135  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134457
+ Analysis Status: U       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040178984 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040178984 Analysis-status code defaults to U
+ SINT 00001040178984 Hydrologic-condition code defaults to X
+ SINT 00001040178984 Hydrologic-event code defaults to X
+ SINT 00001040178984 Time datum defaults to site default: MDT
+ SINT 00001040178984 Time-datum reliability code defaults to K
+ SINT 00001040178984 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -17.26               S  4 USGSSIVA                                            20140130 W134457
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -131.2               S  3 USGSSIVA                                            20140130 W134457
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179034      Process date: 02-03-2014 05:40  --  Transaction number:    6
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 390500106323000       Site Name: BRUMLEY SNOWCRS
+ Begin Date and Time: 2013-03-20 1020  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134507
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179034 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179034 Analysis-status code defaults to U
+ SINT 00001040179034 Hydrologic-condition code defaults to 9
+ SINT 00001040179034 Hydrologic-event code defaults to 9
+ SINT 00001040179034 Time datum defaults to site default: MDT
+ SINT 00001040179034 Time-datum reliability code defaults to K
+ SINT 00001040179034 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -24.50               S  4 USGSSIVA                                            20140130 W134507
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -181.5               S  3 USGSSIVA                                            20140130 W134507
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179033      Process date: 02-03-2014 05:40  --  Transaction number:    3
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 390500106323000       Site Name: BRUMLEY SNOWCRS
+ Begin Date and Time: 2010-03-23 1140  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134506
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179033 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179033 Analysis-status code defaults to U
+ SINT 00001040179033 Hydrologic-condition code defaults to 9
+ SINT 00001040179033 Hydrologic-event code defaults to 9
+ SINT 00001040179033 Time datum defaults to site default: MDT
+ SINT 00001040179033 Time-datum reliability code defaults to K
+ SINT 00001040179033 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -23.98               S  4 USGSSIVA                                            20140130 W134506
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -179.0               S  3 USGSSIVA                                            20140130 W134506
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179031      Process date: 02-03-2014 05:40  --  Transaction number:    4
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 390500106323000       Site Name: BRUMLEY SNOWCRS
+ Begin Date and Time: 2011-03-20 1200  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134504
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179031 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179031 Analysis-status code defaults to U
+ SINT 00001040179031 Hydrologic-condition code defaults to 9
+ SINT 00001040179031 Hydrologic-event code defaults to 9
+ SINT 00001040179031 Time datum defaults to site default: MDT
+ SINT 00001040179031 Time-datum reliability code defaults to K
+ SINT 00001040179031 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -20.90               S  4 USGSSIVA                                            20140130 W134504
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -156.2               S  3 USGSSIVA                                            20140130 W134504
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179032      Process date: 02-03-2014 05:40  --  Transaction number:    5
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 390500106323000       Site Name: BRUMLEY SNOWCRS
+ Begin Date and Time: 2012-03-21 1000  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134505
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179032 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179032 Analysis-status code defaults to U
+ SINT 00001040179032 Hydrologic-condition code defaults to 9
+ SINT 00001040179032 Hydrologic-event code defaults to 9
+ SINT 00001040179032 Time datum defaults to site default: MDT
+ SINT 00001040179032 Time-datum reliability code defaults to K
+ SINT 00001040179032 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -21.72               S  4 USGSSIVA                                            20140130 W134505
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -161.9               S  3 USGSSIVA                                            20140130 W134505
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179035      Process date: 02-03-2014 05:40  --  Transaction number:   68
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 392200106120000       Site Name: FREMONT PASS SNOWCRS
+ Begin Date and Time: 2010-04-16 1220  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134508
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179035 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179035 Analysis-status code defaults to U
+ SINT 00001040179035 Hydrologic-condition code defaults to 9
+ SINT 00001040179035 Hydrologic-event code defaults to 9
+ SINT 00001040179035 Time datum defaults to site default: MDT
+ SINT 00001040179035 Time-datum reliability code defaults to K
+ SINT 00001040179035 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -21.63               S  4 USGSSIVA                                            20140130 W134508
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -161.7               S  3 USGSSIVA                                            20140130 W134508
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179037      Process date: 02-03-2014 05:40  --  Transaction number:   69
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 392200106120000       Site Name: FREMONT PASS SNOWCRS
+ Begin Date and Time: 2011-04-07 1345  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134510
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179037 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179037 Analysis-status code defaults to U
+ SINT 00001040179037 Hydrologic-condition code defaults to 9
+ SINT 00001040179037 Hydrologic-event code defaults to 9
+ SINT 00001040179037 Time datum defaults to site default: MDT
+ SINT 00001040179037 Time-datum reliability code defaults to K
+ SINT 00001040179037 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -20.32               S  4 USGSSIVA                                            20140130 W134510
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -150.2               S  3 USGSSIVA                                            20140130 W134510
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179036      Process date: 02-03-2014 05:40  --  Transaction number:   70
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 392200106120000       Site Name: FREMONT PASS SNOWCRS
+ Begin Date and Time: 2012-04-07 1330  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134509
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179036 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179036 Analysis-status code defaults to U
+ SINT 00001040179036 Hydrologic-condition code defaults to 9
+ SINT 00001040179036 Hydrologic-event code defaults to 9
+ SINT 00001040179036 Time datum defaults to site default: MDT
+ SINT 00001040179036 Time-datum reliability code defaults to K
+ SINT 00001040179036 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -21.41               S  4 USGSSIVA                                            20140130 W134509
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -160.5               S  3 USGSSIVA                                            20140130 W134509
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+
+1
+ SINT: 00001040179038      Process date: 02-03-2014 05:40  --  Transaction number:   71
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 392200106120000       Site Name: FREMONT PASS SNOWCRS
+ Begin Date and Time: 2013-04-08 1430  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD2900       Lab ID: W134511
+ Analysis Status: U       Hydrologic Condition: 9       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001040179038 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001040179038 Analysis-status code defaults to U
+ SINT 00001040179038 Hydrologic-condition code defaults to 9
+ SINT 00001040179038 Hydrologic-event code defaults to 9
+ SINT 00001040179038 Time datum defaults to site default: MDT
+ SINT 00001040179038 Time-datum reliability code defaults to K
+ SINT 00001040179038 Collecting agency code defaults to USGS-WRD
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 82085 MS020 delta O-18, wu                per mil        -22.52               S  4 USGSSIVA                                            20140130 W134511
+ X 82082 MS007 H-2/H-1 ratio, wu             per mil        -168.2               S  3 USGSSIVA                                            20140130 W134511
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Method codes--MS020,Oxygen-18/16, wu, by MS;MS007,Deuterium/Protium, wu, MS;
+
+ 	Analyzing Entity codes--USGSSIVA,USGS-NRP, Stable Isotope Lab, Reston, VA;
+

@@ -1,0 +1,634 @@
+1
+ SINT: 00001028607700      Process date: 01-16-2014 05:40  --  Transaction number:   26
+
+ Record Number: 01304612       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391512106230001       Site Name: SC00908019BCCA1 LSGS-03 LITTLE SUGARLOAF GL SEEP 3
+ Begin Date and Time: 2013-09-20 1032  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: OAQ       Sample Type: 2       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020029
+ Analysis Status: I       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 10
+ Sample Field Comment--
+ Sample Lab Comment--L-3020029 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001028607700 Batch mode does not allow change of analysis-status code to U.
+ SINT 00001028607700 Batch mode does not allow change of hydrologic-condition code to 4
+ SINT 00001028607700 Batch mode does not allow change of hydrologic-event code to 9
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607700 Laboratory-sample comment changed from  to L-3020029 X=improper sample container FU - 125mL
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code             8010               S  4 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99101       Source of blank solution      code               10               S  2 USGS-WRD
+   99102       Type of blank sample          code              100               S  3 USGS-WRD
+   99100       Type of blank solution        code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.06  <            S  2 USGSNWQL          0.06 LT-MDL                       20140105 ICPRE14003B
+ N 00945 IC022 Sulfate, wf                   mg/l             0.09  <            S  2 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--<,less than;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607796      Process date: 01-16-2014 05:40  --  Transaction number:   27
+
+ Record Number: 01400280       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391512106230401       Site Name: DINERO STRUCTURE AT 1200 FT NEAR LEADVILLE, CO
+ Begin Date and Time: 2013-10-28 0915  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3180021
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 11
+ Sample Field Comment--"sample processed at Colo Mtn College at around 1200 on 10/28/2013; pH, SC, and Alk completed at Colo WSC week of Nov 11, 2013- samples
+ transported to Colo WSC on Nov 8, 2013 by Dave Pedersen"
+ Sample Lab Comment--L-3180021 X=improper sample container for FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607796 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607796 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607796 Laboratory-sample comment changed from  to L-3180021 X=improper sample container for FU - 125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 1.81 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.99 -- greater than +/- 5.49%
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 661 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00400 PROBE pH                            std units         6.4  E  e         S  2 USGS-WRD
+   Result field comment: measured 10 days after sample collection in lab at CMC
+
+   00095 SC001 Specific cond at 25C          uS/cm @25C        759  E  e         S  3 USGS-WRD
+   Result field comment: measured 10 days after sample collection in lab at CMC
+
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.366     n d       S  3 USGSNWQL          0.02 LT-MDL                       20140105 ICPRE14003B
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000401  E            S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          660.771     d         S  3 USGSNWQL          0.02 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--E,estimated;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--e,see result field comment;n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+ 	Method codes--PROBE,pH, field, electrometric;SC001,Specific conductance sensor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607797      Process date: 01-16-2014 05:40  --  Transaction number:   28
+
+ Record Number: 01400281       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391513106230401       Site Name: DINERO BULKHEAD SPIGOT AT 1250 FT NR LEADVILLE, CO
+ Begin Date and Time: 2013-10-28 0925  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3180022
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 11
+ Sample Field Comment--"sample processed at Colo. Mtn College at around 1200 - pH, SC, and Alk completed at Colo WSC week of Nov 11, 2013 - samples transported to
+ Colo WSC Nov 8, 2013 by Dave Pedersen"
+ Sample Lab Comment--L-3180022 X=improper sample container for FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607797 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607797 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607797 Laboratory-sample comment changed from  to L-3180022 X=improper sample container for FU - 125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.99 -- greater than +/- 5.49%
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 703 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00400 PROBE pH                            std units         6.5  E  e         S  2 USGS-WRD
+   Result field comment: measured 10 days after sample collection in lab at CMC
+
+   00095 SC001 Specific cond at 25C          uS/cm @25C       1180  E  e         S  3 USGS-WRD
+   Result field comment: measured 10 days after sample collection in lab at CMC
+
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.325     n d       S  3 USGSNWQL          0.02 LT-MDL                       20140105 ICPRE14003B
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000319  E            S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          703.008     d         S  3 USGSNWQL          0.02 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--E,estimated;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--e,see result field comment;n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+ 	Method codes--PROBE,pH, field, electrometric;SC001,Specific conductance sensor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607702      Process date: 01-16-2014 05:40  --  Transaction number:   29
+
+ Record Number: 01305872       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391513106232601       Site Name: SC00908124ACAD1 SLGS-04 SUGARLOAF GULCH SEEP 4
+ Begin Date and Time: 2013-09-20 1230  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020031
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 25
+ Sample Field Comment--organic sheen on water
+ Sample Lab Comment--L-3020031 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607702 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607702 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607702 Laboratory-sample comment changed from  to L-3020031 X=improper sample container FU - 125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ pH (00400) falls outside of range 4.5 to 9.0
+ Cation/specific conductance ratio is 0.03 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -94.65 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           530.5               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s         0.00245               S  2 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             3.95               S  2 USGS-WRD
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       49.6               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.04               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        344               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            9.28               S  2 USGS-WRD
+   01305       Suds, severity                code                0               S  1 USGS-WRD
+   01330       Odor, severity                code                1               S  1 USGS-WRD
+   00004       Stream width                  ft                  4               S  3 USGS-WRD
+   01350       Turbidity, severity           code                2               S  1 USGS-WRD
+   81904       Stream velocity               ft/sec            0.3               S  2 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.104     n         S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.091925               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          159.185     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+1
+ Record number: 01305872   Database number:  01   SINT: 00001028607702       Process date: 01-16-2014 05:40   Transaction number:   29
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607701      Process date: 01-16-2014 05:40  --  Transaction number:   30
+
+ Record Number:                Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391517106230602       Site Name: LSG-06 LITTLE SUGARLOAF GL 6 NR LEADVILLE, CO
+ Begin Date and Time: 2013-09-20 1237  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WGQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020030
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--L-3020030 X=improper sample container FU - 125mL
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001028607701 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607701 Analysis status code U may be inappropriate for quality-control medium code WGQ
+ SINT 00001028607701 Hydrologic-condition code 4 may not be appropriate for medium code WGQ
+ SINT 00001028607701 Hydrologic-event code 9 may not be appropriate for medium code WGQ
+ SINT 00001028607701 Time datum defaults to site default: MDT
+ SINT 00001028607701 Time-datum reliability code defaults to K
+ SINT 00001028607701 Collecting agency code defaults to USGS-WRD
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 505 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 00940 IC022 Chloride, wf                  mg/l            0.328     n d       S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ X 00945 IC022 Sulfate, wf                   mg/l          504.768     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607708      Process date: 01-16-2014 05:40  --  Transaction number:   31
+
+ Record Number: 01305863       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391517106230701       Site Name: LSGS-12 SEEP BELOW SEEP 10 ON RIGHT BANK
+ Begin Date and Time: 2013-09-20 1350  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020053
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 25
+ Sample Field Comment--Sonde readings in cal cup - spring in pipe
+ Sample Lab Comment--L-3020053 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607708 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607708 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607708 Laboratory-sample comment changed from  to L-3020053 X=improper sample container FU - 125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.65 -- greater than +/- 5.49%
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 557 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg             530               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.006               S  2 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l              6.0               S  2 USGS-WRD
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       72.5               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.69               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        992               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C             7.6               S  2 USGS-WRD
+   01305       Suds, severity                code                0               S  1 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                0.2               S  2 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   81904       Stream velocity               ft/sec            0.5               S  2 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.31     n d       S  2 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.020580               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          556.648     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+1
+ Record number: 01305863   Database number:  01   SINT: 00001028607708       Process date: 01-16-2014 05:40   Transaction number:   31
+
+ 	Value Qualifier codes--n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607707      Process date: 01-16-2014 05:40  --  Transaction number:   32
+
+ Record Number: 01305864       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391518106230901       Site Name: LSGS-10, LITTLE SUGARLOAF GULCH SEEP 10
+ Begin Date and Time: 2013-09-20 1430  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020046
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--L-3020046 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607707 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607707 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607707 Laboratory-sample comment changed from  to L-3020046 X=improper sample container FU - 125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.95 -- greater than +/- 5.49%
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 696 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           530.3               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.002               S  2 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             7.36               S  2 USGS-WRD
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       85.6               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.45               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C       1179               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            6.07               S  2 USGS-WRD
+   01305       Suds, severity                code                0               S  1 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                0.3               S  2 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.304     n d       S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.003576               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l            696.4     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--n,below the LRL and above the LT-MDL;d,diluted sample: method hi range exceeded;
+1
+ Record number: 01305864   Database number:  01   SINT: 00001028607707       Process date: 01-16-2014 05:40   Transaction number:   32
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607706      Process date: 01-16-2014 05:40  --  Transaction number:   22
+
+ Record Number: 01304610       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391501106225001       Site Name: SLGS-09 SUGARLOAF GULCH SEEP 9 PIPE NR DINERO, CO
+ Begin Date and Time: 2013-09-19 1312  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: OAQ       Sample Type: 2       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020041
+ Analysis Status: I       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 10
+ Sample Field Comment--
+ Sample Lab Comment--L-3020041 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001028607706 Batch mode does not allow change of analysis-status code to U.
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607706 Laboratory-sample comment changed from  to L-3020041 X=improper sample container FU - 125mL
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   71999       Sample purpose                code           170.00               S  5 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code             8010               S  4 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99101       Source of blank solution      code               10               S  4 USGS-WRD
+   99102       Type of blank sample          code              100               S  5 USGS-WRD
+   99100       Type of blank solution        code               10               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.06  <            S  2 USGSNWQL          0.06 LT-MDL                       20140105 ICPRE14003B
+ N 00945 IC022 Sulfate, wf                   mg/l             0.09  <            S  2 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--<,less than;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607705      Process date: 01-16-2014 05:40  --  Transaction number:   23
+
+ Record Number: 01304617       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391501106225401       Site Name: SLG-01 SUGARLOAF GULCH US FROM DINERO MINE DRNG TU
+ Begin Date and Time: 2013-09-20 1542  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: OAQ       Sample Type: 2       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020038
+ Analysis Status: I       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 10
+ Sample Field Comment--
+ Sample Lab Comment--L-3020038 X=improper sample container FU - 125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001028607705 Batch mode does not allow change of analysis-status code to U.
+ SINT 00001028607705 Batch mode does not allow change of hydrologic-condition code to 4
+ SINT 00001028607705 Batch mode does not allow change of hydrologic-event code to 9
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607705 Laboratory-sample comment changed from  to L-3020038 X=improper sample container FU - 125mL
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   71999       Sample purpose                code            10.00               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code             8010               S  4 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99101       Source of blank solution      code               10               S  2 USGS-WRD
+   99102       Type of blank sample          code              100               S  3 USGS-WRD
+   99100       Type of blank solution        code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.06  <            S  2 USGSNWQL          0.06 LT-MDL                       20140105 ICPRE14003B
+ N 00945 IC022 Sulfate, wf                   mg/l             0.09  <            S  2 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--<,less than;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607703      Process date: 01-16-2014 05:40  --  Transaction number:   24
+
+ Record Number:                Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391502106230601       Site Name: SUGARLOAF GL ABV NELSON MINE DR TUNL ABV LAKE FORK
+ Begin Date and Time: 2013-09-20 1320  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020035
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--L-3020035 X=improper sample container FU - 125mL
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001028607703 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607703 Hydrologic-condition code 4 may not be appropriate for medium code WG
+ SINT 00001028607703 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001028607703 Time datum defaults to site default: MDT
+ SINT 00001028607703 Time-datum reliability code defaults to K
+ SINT 00001028607703 Collecting agency code defaults to USGS-WRD
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 253 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 00940 IC022 Chloride, wf                  mg/l            0.313     d         S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ X 00945 IC022 Sulfate, wf                   mg/l          252.968     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,diluted sample: method hi range exceeded;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001028607704      Process date: 01-16-2014 05:40  --  Transaction number:   25
+
+ Record Number:                Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391502106230601       Site Name: SUGARLOAF GL ABV NELSON MINE DR TUNL ABV LAKE FORK
+ Begin Date and Time: 2013-09-20 1327  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WGQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 3020036
+ Analysis Status: U       Hydrologic Condition: 4       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 0
+ Sample Field Comment--
+ Sample Lab Comment--L-3020036 X=improper sample container FU - 125mL
+ Collecting Agency: USGS-WRD, U.S. Geological Survey-Water Resources Discipline
+
+ 	*** SAMPLE-LEVEL CRITICAL FAILURES ***
+ SINT 00001028607704 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001028607704 Analysis status code U may be inappropriate for quality-control medium code WGQ
+ SINT 00001028607704 Hydrologic-condition code 4 may not be appropriate for medium code WGQ
+ SINT 00001028607704 Hydrologic-event code 9 may not be appropriate for medium code WGQ
+ SINT 00001028607704 Time datum defaults to site default: MDT
+ SINT 00001028607704 Time-datum reliability code defaults to K
+ SINT 00001028607704 Collecting agency code defaults to USGS-WRD
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 254 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+ X 00940 IC022 Chloride, wf                  mg/l            0.314     d         S  3 USGSNWQL          0.06 LT-MDL                       20131218 ICPRE13350B
+ X 00945 IC022 Sulfate, wf                   mg/l          253.978     d         S  3 USGSNWQL          0.09 LT-MDL                       20140105 ICPRE14003B
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,diluted sample: method hi range exceeded;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+

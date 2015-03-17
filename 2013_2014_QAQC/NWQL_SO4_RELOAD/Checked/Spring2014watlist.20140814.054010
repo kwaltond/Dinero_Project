@@ -1,0 +1,1756 @@
+1
+ SINT: 00001066663258      Process date: 08-14-2014 05:40  --  Transaction number:   14
+
+ Record Number: 01402568       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391501106224901       Site Name: SC00908124CBAD2 SLGS-07 SUGARLOAF GULCH SEEP 7
+ Begin Date and Time: 2014-05-29 1250  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910257
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663258 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663258 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ pH (00400) falls outside of range 4.5 to 9.0
+ Cation/specific conductance ratio is 0.04 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.86 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -90.81 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.6               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s          0.0004               S  2 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             7.64               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn      114.3               S  3
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        3.67               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 518.754950               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C           17.23               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.374     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.215494               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          212.647     d         S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+1
+ Record number: 01402568   Database number:  01   SINT: 00001066663258       Process date: 08-14-2014 05:40   Transaction number:   14
+
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663256      Process date: 08-14-2014 05:40  --  Transaction number:   15
+
+ Record Number: 01402571       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391501106225401       Site Name: SLG-01 SUGARLOAF GULCH US FROM DINERO MINE DRNG TU
+ Begin Date and Time: 2014-05-29 1530  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910255
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 22
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ pH (00400) falls outside of range 4.5 to 9.0
+ Cation/specific conductance ratio is 0.02 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.87 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -94.40 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           535.8               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            2.01               S  2 USGS-WRD
+   Result field comment: Ha 0.69 Hb 0.34 8" baski 5% loss
+
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units         4.4               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 159.634901               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            9.81               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.257               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.040127               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           66.066               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;
+ THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663254      Process date: 08-14-2014 05:40  --  Transaction number:   16
+
+ Record Number: 01402572       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391501106230601       Site Name: NELSON MINE DRAINAGE TUN BLW TURQ LAKE NR LEADVILL
+ Begin Date and Time: 2014-05-29 1630  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910253
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--L-1910253 X=improper sample container for FU-125mL
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663254 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663254 Hydrologic-event code 9 may not be appropriate for medium code WG
+ SINT 00001066663254 Laboratory-sample comment changed from  to L-1910253 X=improper sample container for FU-125mL
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.78 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.91 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           527.1               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s         0.00333               S  2 USGS-WRD
+   Result field comment: 4" baski, ha 0.04
+
+   00300 MEMBR Dissolved oxygen              mg/l             4.03               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       46.9               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.78               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 475.225248               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            5.98               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  2               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.269               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.001673               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          176.744     d         S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+1
+ Record number: 01402572   Database number:  01   SINT: 00001066663254       Process date: 08-14-2014 05:40   Transaction number:   16
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663271      Process date: 08-14-2014 05:40  --  Transaction number:   17
+
+ Record Number: 01402585       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391502106230601       Site Name: SUGARLOAF GL ABV NELSON MINE DR TUNL ABV LAKE FORK
+ Begin Date and Time: 2014-05-29 1625  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910271
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ pH (00400) falls outside of range 4.5 to 9.0
+ Cation/specific conductance ratio is 0.05 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.76 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -88.04 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           527.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            2.07               S  2 USGS-WRD
+   Result field comment: ha 0.7 hb 0.34 8" baski
+
+   00300 MEMBR Dissolved oxygen              mg/l             8.02               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 18.3C, BP = 532.4 mmHg; CHART VALUE = 6.57 mg/L; INITIAL VALUE = 6.59 mg/L, ADJUSTED
+ VALUE = 6.59 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       95.0               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.11               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        160               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            6.73               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  3               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               30               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.258               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.078241               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           58.269               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+1
+ Record number: 01402585   Database number:  01   SINT: 00001066663271       Process date: 08-14-2014 05:40   Transaction number:   17
+
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663262      Process date: 08-14-2014 05:40  --  Transaction number:   18
+
+ Record Number: 01402573       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391504106223001       Site Name: LAKE FORK BELOW TURQUOISE LAKE NEAR LEADVILLE, CO
+ Begin Date and Time: 2014-05-30 0920  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910262
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.15 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -96.90 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           538.8               S  3 USGS-WRD
+   00061 QSTGQ Discharge, instant.           ft3/s             139               S  3 USGS-WRD
+   Result field comment: staff = 1.3 at gage house
+
+   00300 MEMBR Dissolved oxygen              mg/l              9.5               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.57C, BP = 539.9 mmHg; CHART VALUE = 7.80 mg/L; INITIAL VALUE = 6.31 mg/L,
+ ADJUSTED VALUE = 7.91 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn      105.5               S  3
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        7.06               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         41               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C            5.07               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.129               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000088               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l            2.876               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QSTGQ,Discharge, stg-disch rating;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+1
+ Record number: 01402573   Database number:  01   SINT: 00001066663262       Process date: 08-14-2014 05:40   Transaction number:   18
+
+
+1
+ SINT: 00001066663277      Process date: 08-14-2014 05:40  --  Transaction number:   19
+
+ Record Number: 01402570       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391504106225201       Site Name: LSG-0 LITTLE SUGARLOAF GULCH US FROM DINERO MINE D
+ Begin Date and Time: 2014-05-29 1400  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910277
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.71 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s           0.255               S  2 USGS-WRD
+   Result field comment: 4" baski. HA 0.35, 10%loss
+
+   00300 MEMBR Dissolved oxygen              mg/l             7.17               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       94.5               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.78               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 270.877475               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            11.6               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  1               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               30               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.262     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.016728               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          122.455     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+1
+ Record number: 01402570   Database number:  01   SINT: 00001066663277       Process date: 08-14-2014 05:40   Transaction number:   19
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663264      Process date: 08-14-2014 05:40  --  Transaction number:   20
+
+ Record Number: 01403090       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391504106225201       Site Name: LSG-0 LITTLE SUGARLOAF GULCH US FROM DINERO MINE D
+ Begin Date and Time: 2014-05-29 1407  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WSQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910264
+ Analysis Status: I       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.71 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s           0.255               S  2 USGS-WRD
+   Result field comment: 0.35 ha 4" baski 10% loss
+
+   00300 MEMBR Dissolved oxygen              mg/l             7.17               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       94.5               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.78               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 270.877475               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            11.6               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  1               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.254     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.016728               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          122.225     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+1
+ Record number: 01403090   Database number:  02   SINT: 00001066663264       Process date: 08-14-2014 05:40   Transaction number:   20
+
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663260      Process date: 08-14-2014 05:40  --  Transaction number:   21
+
+ Record Number: 01402575       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391512106230001       Site Name: SC00908019BCCA1 LSGS-03 LITTLE SUGARLOAF GL SEEP 3
+ Begin Date and Time: 2014-05-30 1200  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910260
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663260 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663260 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.70 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            0.34               S  2 USGS-WRD
+   Result field comment: L channel QVOLM at 0.0765cfs, R channel ha0.36 4" baski
+
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.72               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        294               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C             5.6               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                1.5               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.262     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.019206               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          139.357     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;
+ THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+1
+ Record number: 01402575   Database number:  01   SINT: 00001066663260       Process date: 08-14-2014 05:40   Transaction number:   21
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663257      Process date: 08-14-2014 05:40  --  Transaction number:   22
+
+ Record Number: 01402589       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391513106230401       Site Name: DINERO BULKHEAD SPIGOT AT 1250 FT NR LEADVILLE, CO
+ Begin Date and Time: 2014-05-30 1605  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910256
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 21
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663257 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663257 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.98 -- greater than +/- 5.49%
+
+ 	*** NWIS alert limits ***
+ Sulfate, wf (00945) is 764 mg/l, greater than or equals Sulfate SDWR, 250.0 mg/l
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00300 MEMBR Dissolved oxygen              mg/l             2.47               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.78C, BP = 539.6 mmHg; CHART VALUE = 7.87 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED
+ VALUE = 7.87 mg/L
+
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.71               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C       1361               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            9.27               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.357     n d       S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.001965               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          764.446     d         S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--n,below the reporting level but at or above the detection level;d,sample was diluted;
+
+ 	Method codes--MEMBR,Diss oxygen, membrane electrode;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water,
+1
+ Record number: 01402589   Database number:  01   SINT: 00001066663257       Process date: 08-14-2014 05:40   Transaction number:   22
+
+ thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663259      Process date: 08-14-2014 05:40  --  Transaction number:   23
+
+ Record Number: 01402590       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391513106232601       Site Name: SC00908124ACAD1 SLGS-04 SUGARLOAF GULCH SEEP 4
+ Begin Date and Time: 2014-05-30 1220  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910259
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663259 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663259 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.77 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.53 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           528.2               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            1.19               S  2 USGS-WRD
+   Result field comment: ha 0.53 hb: 0.26
+
+   00300 MEMBR Dissolved oxygen              mg/l             8.31               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.78C, BP = 539.6 mmHg; CHART VALUE = 7.87 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED
+ VALUE = 7.87 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       94.3               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        6.13               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         55               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C            5.14               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  6               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.234               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000747               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           19.923               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+1
+ Record number: 01402590   Database number:  01   SINT: 00001066663259       Process date: 08-14-2014 05:40   Transaction number:   23
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663261      Process date: 08-14-2014 05:40  --  Transaction number:   24
+
+ Record Number: 01402574       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391517106223801       Site Name: BARTLETT MINE DRAINAGE TUNNEL BLW TURQ LAKE NR LEA
+ Begin Date and Time: 2014-05-30 1000  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910261
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663261 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663261 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.81 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.54 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           535.8               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.043               S  2 USGS-WRD
+   Result field comment: 5% loss
+
+   00300 MEMBR Dissolved oxygen              mg/l             8.01               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.57C, BP = 539.9 mmHg; CHART VALUE = 7.80 mg/L; INITIAL VALUE = 6.31 mg/L,
+ ADJUSTED VALUE = 7.91 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       90.8               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.45               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        188               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            5.64               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  1               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               30               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.271               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.003576               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           72.983               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+1
+ Record number: 01402574   Database number:  01   SINT: 00001066663261       Process date: 08-14-2014 05:40   Transaction number:   24
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663266      Process date: 08-14-2014 05:40  --  Transaction number:   25
+
+ Record Number: 01403092       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391517106223801       Site Name: BARTLETT MINE DRAINAGE TUNNEL BLW TURQ LAKE NR LEA
+ Begin Date and Time: 2014-05-30 1007  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WGQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910266
+ Analysis Status: I       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663266 Hydrologic-condition code 5 may not be appropriate for medium code WGQ
+ SINT 00001066663266 Hydrologic-event code 9 may not be appropriate for medium code WGQ
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.81 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.54 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           535.8               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s          0.0429               S  2 USGS-WRD
+   Result field comment: 5% loss
+
+   00300 MEMBR Dissolved oxygen              mg/l             8.01               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.57C, BP = 539.9 mmHg; CHART VALUE = 7.80 mg/L; INITIAL VALUE = 6.31 mg/L,
+ ADJUSTED VALUE = 7.91 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       90.8               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.45               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        188               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            5.64               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  1               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.273               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.003576               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           73.019               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+1
+ Record number: 01403092   Database number:  02   SINT: 00001066663266       Process date: 08-14-2014 05:40   Transaction number:   25
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663255      Process date: 08-14-2014 05:40  --  Transaction number:   26
+
+ Record Number: 01402576       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391517106230601       Site Name: SC00908124ADAA1 LSGS-05 LITTLE SUGARLOAF GL SEEP 5
+ Begin Date and Time: 2014-05-30 1245  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910254
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663255 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663255 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.44 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.29 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           532.4               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.023               S  2 USGS-WRD
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        6.52               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         63               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C            6.49               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                0.5               S  2 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.273               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000304               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           13.089               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;
+ THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663272      Process date: 08-14-2014 05:40  --  Transaction number:   27
+
+ Record Number: 01402577       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391517106230602       Site Name: LSG-06 LITTLE SUGARLOAF GL 6 NR LEADVILLE, CO
+ Begin Date and Time: 2014-05-30 1300  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910272
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 21
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.94 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           531.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s           0.316               S  2 USGS-WRD
+   Result field comment: Ha: 0.39 Hb 0.14 4" baski
+
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.83               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        285               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            4.79               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.266     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.014909               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          133.384     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;
+ THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663278      Process date: 08-14-2014 05:40  --  Transaction number:   28
+
+ Record Number: 01402578       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391519106230901       Site Name: LSGS-11, LITTLE SUGARLOAF GULCH SEEP 11
+ Begin Date and Time: 2014-05-30 1345  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910278
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663278 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663278 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -97.88 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           529.9               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            0.24               S  2 USGS-WRD
+   Result field comment: Ha 0.34 hb 0.11 4" baski
+
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.58               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        256               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            4.52               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  2               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.279     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.026512               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          117.523     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;
+ THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;ALGOR,Computation by NWIS algorithm;
+
+1
+ Record number: 01402578   Database number:  01   SINT: 00001066663278       Process date: 08-14-2014 05:40   Transaction number:   28
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663265      Process date: 08-14-2014 05:40  --  Transaction number:   29
+
+ Record Number: 01402587       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391530106223601       Site Name: SC00908019BDAB1 BG-011BARTLETTT GULCH 13 NR LEADVI
+ Begin Date and Time: 2014-05-30 1305  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910265
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001066663265 Batch mode does not allow change of analysis-status code to I.
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.80 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.52 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.3               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s            1.62               S  2 USGS-WRD
+   Result field comment: ha 0.62 hb 0.3 8" baski, 10%loss
+
+   00300 MEMBR Dissolved oxygen              mg/l             7.49               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.78C, BP = 539.6 mmHg; CHART VALUE = 7.87 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED
+ VALUE = 7.87 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       99.9               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.76               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         90               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C           12.12               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  4               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.21               S  2 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.001752               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           34.450               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+1
+ Record number: 01402587   Database number:  01   SINT: 00001066663265       Process date: 08-14-2014 05:40   Transaction number:   29
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663273      Process date: 08-14-2014 05:40  --  Transaction number:   30
+
+ Record Number: 01402586       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391559106230901       Site Name: SC00908113ADDD1 TLSS-03 TURQUOISE LAKE SOUTH SEEP
+ Begin Date and Time: 2014-05-30 0940  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910273
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001066663273 Batch mode does not allow change of Sample-type code to 9.
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663273 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663273 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.84 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.76 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           532.7               S  3 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             2.18               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.78C, BP = 539.6 mmHg; CHART VALUE = 7.87 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED
+ VALUE = 7.87 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       23.8               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.75               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        173               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            3.96               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  3               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               30               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.261               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.001792               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           69.548               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+1
+ Record number: 01402586   Database number:  01   SINT: 00001066663273       Process date: 08-14-2014 05:40   Transaction number:   30
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;PROBE,pH, field,
+ electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663274      Process date: 08-14-2014 05:40  --  Transaction number:   31
+
+ Record Number: 01403095       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391559106230901       Site Name: SC00908113ADDD1 TLSS-03 TURQUOISE LAKE SOUTH SEEP
+ Begin Date and Time: 2014-05-30 0947  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WGQ       Sample Type: 7       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910274
+ Analysis Status: I       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 22
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663274 Hydrologic-condition code 5 may not be appropriate for medium code WGQ
+ SINT 00001066663274 Hydrologic-event code 9 may not be appropriate for medium code WGQ
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.85 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.76 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           532.7               S  3 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             2.01               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/30/14 0700, CAL TEMP = 10.78C, BP = 539.6 mmHg; CHART VALUE = 7.87 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED
+ VALUE = 7.87 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       21.9               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        5.76               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        172               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            3.97               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  3               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.264               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.001752               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           69.638               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;PROBE,pH, field,
+ electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+1
+ Record number: 01403095   Database number:  02   SINT: 00001066663274       Process date: 08-14-2014 05:40   Transaction number:   31
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663275      Process date: 08-14-2014 05:40  --  Transaction number:    7
+
+ Record Number: 01402581       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391443106225701       Site Name: SBG-0 STRAWBERRY GULCH AT MOUTH NR LEADVILLE, CO
+ Begin Date and Time: 2014-05-29 1205  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910275
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.31 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.50 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           532.5               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s           0.459               S  2 USGS-WRD
+   Result field comment: ha: 0.47 hb: 0.14 4" baski
+
+   00300 MEMBR Dissolved oxygen              mg/l             6.79               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 18.3C, BP = 532.4 mmHg; CHART VALUE = 6.57 mg/L; INITIAL VALUE = 6.59 mg/L, ADJUSTED
+ VALUE = 6.59 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       86.9               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        6.87               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         42               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C           10.27               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                  1               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.285               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000136               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l            5.949               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+1
+ Record number: 01402581   Database number:  01   SINT: 00001066663275       Process date: 08-14-2014 05:40   Transaction number:    7
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663270      Process date: 08-14-2014 05:40  --  Transaction number:    8
+
+ Record Number: 01402582       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391445106230701       Site Name: SC00908124DDDA1 SBGS-01 STRAWBERRY GULCH SEEP 1
+ Begin Date and Time: 2014-05-29 1255  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910270
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663270 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663270 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.64 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.81 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           530.9               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s          0.0027               S  2 USGS-WRD
+   Result field comment: vol 485ml, time(s) 6.13,6.38,6.46
+
+   00300 MEMBR Dissolved oxygen              mg/l             7.06               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 18.3C, BP = 532.4 mmHg; CHART VALUE = 6.57 mg/L; INITIAL VALUE = 6.59 mg/L, ADJUSTED
+ VALUE = 6.59 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       89.8               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        6.61               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        164               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C            9.89               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                0.5               S  2 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.347               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000247               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           49.562               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+1
+ Record number: 01402582   Database number:  01   SINT: 00001066663270       Process date: 08-14-2014 05:40   Transaction number:    8
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663269      Process date: 08-14-2014 05:40  --  Transaction number:    9
+
+ Record Number: 01402583       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391449106232001       Site Name: SC00908124DDBC1 SBGS-02 STRAWBERRY GULCH SEEP 2
+ Begin Date and Time: 2014-05-29 1345  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910269
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 23
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663269 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663269 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.60 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -99.82 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           527.4               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.008               S  2 USGS-WRD
+   Result field comment: vol 13L, time(s) 57.55,58.1,58.12
+
+   00300 MEMBR Dissolved oxygen              mg/l             1.36               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 18.3C, BP = 532.4 mmHg; CHART VALUE = 6.57 mg/L; INITIAL VALUE = 6.59 mg/L, ADJUSTED
+ VALUE = 6.59 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       17.7               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        6.49               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C        183               S  3 USGS-WRD
+   00010 THM01 Temperature, water            deg C           10.59               S  3 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.296               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000326               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           52.083               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+1
+ Record number: 01402583   Database number:  01   SINT: 00001066663269       Process date: 08-14-2014 05:40   Transaction number:    9
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663263      Process date: 08-14-2014 05:40  --  Transaction number:   10
+
+ Record Number: 01402580       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391452106224201       Site Name: LF-580 LAKEFORK DS FROM SUGARLOAF GULCH NR LEADVIL
+ Begin Date and Time: 2014-05-29 1015  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910263
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.00 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.34 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.07 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           532.4               S  3 USGS-WRD
+   00061 QSCMM Discharge, instant.           ft3/s             163               S  3 USGS-WRD
+   00300 MEMBR Dissolved oxygen              mg/l             9.15               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 18.3C, BP = 532.4 mmHg; CHART VALUE = 6.57 mg/L; INITIAL VALUE = 6.59 mg/L, ADJUSTED
+ VALUE = 6.59 mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn      103.7               S  3
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        7.34               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C         30               S  2 USGS-WRD
+   00010 THM01 Temperature, water            deg C            5.41               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                 25               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               5               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3044               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.131               S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.000046               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l            4.755               S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QSCMM,Disch., meas., midsection;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663276      Process date: 08-14-2014 05:40  --  Transaction number:   11
+
+ Record Number: 01403093       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391452106224201       Site Name: LF-580 LAKEFORK DS FROM SUGARLOAF GULCH NR LEADVIL
+ Begin Date and Time: 2014-05-29 1052  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: OAQ       Sample Type: 2       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910276
+ Analysis Status: I       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 10
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001066663276 Batch mode does not allow change of hydrologic-condition code to 5
+ SINT 00001066663276 Batch mode does not allow change of hydrologic-event code to 9
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code             8010               S  4 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99101       Source of blank solution      code               10               S  4 USGS-WRD
+   99102       Type of blank sample          code              100               S  5 USGS-WRD
+   99100       Type of blank solution        code               10               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.02  <            S  2 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ N 00945 IC022 Sulfate, wf                   mg/l             0.02  <            S  2 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--<,less than;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663268      Process date: 08-14-2014 05:40  --  Transaction number:   12
+
+ Record Number: 01402566       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391454106224201       Site Name: LF-537 SUGARLOAF GULCH AT MOUTH NR LEADVILLE, CO
+ Begin Date and Time: 2014-05-29 1130  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WS        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910268
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Anion/specific conductance ratio is 0.86 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.51 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.4               S  3 USGS-WRD
+   00061 QFLUM Discharge, instant.           ft3/s           0.333               S  2 USGS-WRD
+   Result field comment: 10% Loss, Ha: 0.4
+
+   00300 MEMBR Dissolved oxygen              mg/l             7.39               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       92.3               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.81               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 240.648515               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            9.31               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                1.5               S  3 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code               10               S  2 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.287     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.015611               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l           98.695     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+1
+ Record number: 01402566   Database number:  01   SINT: 00001066663268       Process date: 08-14-2014 05:40   Transaction number:   12
+
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QFLUM,Disch., meas., flume;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS algorithm;
+ PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+
+1
+ SINT: 00001066663267      Process date: 08-14-2014 05:40  --  Transaction number:   13
+
+ Record Number: 01402567       Database Number: 01       Sample ID:
+ Agency and Site ID: USGS 391500106224901       Site Name: UNNAMED MINE DRAINAGE TUNNEL BLW TURQ LK NR LEADVI
+ Begin Date and Time: 2014-05-29 1215  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: WG        Sample Type: 9       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD1900       Lab ID: 1910267
+ Analysis Status: U       Hydrologic Condition: 5       Hydrologic Event: 9
+ Organism(ITIS):                Body Part:           Number of Parameters: 24
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL UPDATES ***
+ SINT 00001066663267 Hydrologic-condition code 5 may not be appropriate for medium code WG
+ SINT 00001066663267 Hydrologic-event code 9 may not be appropriate for medium code WG
+
+ 	*** QUALITY-ASSURANCE REPORT ***
+
+ 	*** Chemical verification checks ***
+ Cation/specific conductance ratio is 0.01 -- outside limits of 0.92 to 1.24
+ Cation/anion percent difference is -98.90 -- greater than +/- 5.49%
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   00025 BAROM Air pressure                  mm/Hg           533.6               S  3 USGS-WRD
+   00061 QVOLM Discharge, instant.           ft3/s           0.073               S  2 USGS-WRD
+   Result field comment: vol 4750ml. times (sec) 2.30,2.31,2.30
+
+   00300 MEMBR Dissolved oxygen              mg/l             5.68               S  2 USGS-WRD
+   Result field comment: DO CALIBRATION (OR CHECK) @ 5/29/14 0700, CAL TEMP = 16.88C, BP = 522.4 mmHg; CHART VALUE = 6.75 mg/L; INITIAL VALUE = 6.79 mg/L,
+ ADJUSTED VALUE = -- mg/L
+
+ C 00301 ALGOR Diss oxygen,%saturtn          % saturatn       62.0               S  2
+   01325       Floating algae mats, severity code                0               S  1 USGS-WRD
+   01345       Floating debris, severity     code                0               S  1 USGS-WRD
+   01320       Float.Garbage, svrty          code                0               S  1 USGS-WRD
+   00400 PROBE pH                            std units        4.65               S  2 USGS-WRD
+   00095 SC001 Specific cond at 25C          uS/cm @25C 423.231436               S  3 USGS-WRD
+   Result field comment: SC cal at 23, corr w/ endday check. std 1000 reads 830,std 23 reads 22
+
+   00010 THM01 Temperature, water            deg C            4.01               S  2 USGS-WRD
+   01330       Odor, severity                code                0               S  1 USGS-WRD
+   00004       Stream width                  ft                0.5               S  2 USGS-WRD
+   01305       Suds or foam, severity        code                0               S  1 USGS-WRD
+   01350       Turbidity, severity           code                0               S  1 USGS-WRD
+   00063       No. of sampling pts.          count               1               S  1 USGS-WRD
+   71999       Sample purpose                code               10               S  4 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             3071               S  4 USGS-WRD
+   82398       Sampling method               code               70               S  2 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99111       Type of QA data               code                1               S  1 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l            0.373     d         S  3 USGSNWQL          0.02 LT-MDL                       20140806 ICPRE14217A
+ C 00191 ALGOR Hydrogen ion, wu, calculated  mg/l         0.022565               S  5
+ N 00945 IC022 Sulfate, wf                   mg/l          193.632     d         S  3 USGSNWQL          0.02 LT-MDL                       20140717 ICPRE14197A
+   01340       Dead fish, severity           code                0               S  1 USGS-WRD
+   01300       Oil & grease, severity        code                0               S  1 USGS-WRD
+
+ 	*** DEFINITION OF CODES ***
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+1
+ Record number: 01402567   Database number:  01   SINT: 00001066663267       Process date: 08-14-2014 05:40   Transaction number:   13
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Value Qualifier codes--d,sample was diluted;
+
+ 	Method codes--BAROM,Atmospheric pressure, barometer;QVOLM,Disch., meas., volumetric;MEMBR,Diss oxygen, membrane electrode;ALGOR,Computation by NWIS
+ algorithm;PROBE,pH, field, electrometric;SC001,Specific conductance sensor;THM01,Temperature, water, thermistor;IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+

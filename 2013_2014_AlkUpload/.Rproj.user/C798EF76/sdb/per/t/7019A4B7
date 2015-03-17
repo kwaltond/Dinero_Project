@@ -1,0 +1,17 @@
+{
+    "contents" : "library(QWToolbox)\ntemplateExport()\n\ndataUpload(qwsampletype=1,\n\t\t\t\t\t labfile=\"labfile.csv\",\n\t\t\t\t\t pcodefile=\"pcodefile.csv\",\n\t\t\t\t\t qwsample.begin.date = \"2013-01-01\",\n\t\t\t\t\t qwsample.end.date = \"2014-12-31\",\n\t\t\t\t\t censor=FALSE)\n",
+    "created" : 1425395814739.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3909071889",
+    "id" : "7019A4B7",
+    "lastKnownWriteTime" : 1425399354,
+    "path" : "Z:/tmills/Dinero/2013_2014/2013_2014_AlkUpload/alkupload.R",
+    "project_path" : "alkupload.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

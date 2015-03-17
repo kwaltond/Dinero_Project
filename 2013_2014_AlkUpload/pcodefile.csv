@@ -1,0 +1,4 @@
+pcode,qa.code,method.code,rounding.code,qualifiers,reporting.level,reporting.level.type,dqi.code,null.value.qualifier,prep.set.no,analytical.set.no,analysis.date,prep.date,lab.comment,field.comment,lab.stdev,analyzing.entity.code
+00418,,,3,,0.1,mrl,I,,,,,,,,,
+29802,,TT056,3,,,,I,,,,,,,,,
+63786,,ASM03,3,,0.1,mrl,I,,,,,,,,,

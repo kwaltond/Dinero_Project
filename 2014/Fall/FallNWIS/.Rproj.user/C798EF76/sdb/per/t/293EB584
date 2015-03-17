@@ -1,0 +1,16 @@
+{
+    "contents" : "QWsample <- read.delim(\"qwsample\",header=FALSE)\nQWresult <- read.delim(\"qwresult\",header=FALSE,colClasses = c(\"character\"))\n\nQWresult[,1] <- as.numeric(QWresult[,1])\n\n\n\n###Add DO comment\n\n###Joe 9/23\nQWresult[,18][which(QWresult[,2] == \"00300\" & \n                      QWresult[,1] >= 2 & \n                      QWresult[,1] <= 7)] <- \"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = 11.6C, BP = 537.0 mmHg; CHART VALUE = 7.7 mg/L; INITIAL VALUE = -- mg/L, ADJUSTED VALUE = 7.69 mg/L\"\n###Joe 9/24\nQWresult[,18][which(QWresult[,2] == \"00300\" & \n                      QWresult[,1] >= 8 & \n                      QWresult[,1] <= 15)] <- \"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.21C, BP = 531.5 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.98 mg/L, ADJUSTED VALUE = -- mg/L\"\n###Jenn 9/23\nQWresult[,18][which(QWresult[,2] == \"00300\" & \n                      QWresult[,1] >= 16 & \n                      QWresult[,1] <= 22)] <- \"DO CALIBRATION (OR CHECK) @ 9/23/14 0700, CAL TEMP = --C, BP = -- mmHg; CHART VALUE = -- mg/L; INITIAL VALUE = 8.07 mg/L, ADJUSTED VALUE = 7.72 mg/L\"\n###Jenn 9/24\nQWresult[,18][which(QWresult[,2] == \"00300\" & \n                      QWresult[,1] >= 22 & \n                      QWresult[,1] <= 32)] <- \"DO CALIBRATION (OR CHECK) @ 9/24/14 0700, CAL TEMP = 15.13C, BP = 530.9 mmHg; CHART VALUE = 6.98 mg/L; INITIAL VALUE = 6.93 mg/L, ADJUSTED VALUE = -- mg/L\"\n\n\nwrite.table(QWresult,file=\"qwresult_pcff10162014\",sep =\"\\t\",col.names=FALSE,row.names=FALSE,quote=FALSE)\n\n",
+    "created" : 1413494312808.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2514566981",
+    "id" : "293EB584",
+    "lastKnownWriteTime" : 1413496837,
+    "path" : "Z:/tmills/Dinero/2014/Fall/FallNWIS/PCFFupload.R",
+    "project_path" : "PCFFupload.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "theme_USGS <-  function(base_size = 12){theme(\n  plot.title = element_text (vjust = 3, size = 16,family=\"Times New Roman\"), # plot title attrib.\n  plot.margin = unit (c(8, 4, 8, 4), \"lines\"), # plot margins\n  panel.border = element_rect (colour = \"black\", fill = F), # axis colour = black\n  #panel.grid.major = element_blank (), # remove major grid\n  panel.grid.minor = element_blank (), # remove minor grid\n  panel.background = element_rect (fill = \"white\"), # background colour\n  legend.background = element_rect (fill = \"white\"), # background colour\n  #legend.justification=c(0, 0), # lock point for legend\n  #legend.position = c(0, 1), # put the legend INSIDE the plot area, use = \"none\" to turn off\n  legend.key = element_blank (), # switch off the rectangle around symbols in the legend\n  legend.title = element_blank (), # switch off the legend title\n  legend.text = element_text (size = 12), # sets the attributes of the legend text\n  axis.title.x = element_text (vjust = -2, size = 14,family=\"Times New Roman\"), # change the axis title\n  axis.title.y = element_text (vjust = -0.1, angle = 90, size = 14,family=\"Times New Roman\"), # change the axis title\n  axis.text.x = element_text (size = 12, vjust = -0.25, colour = \"black\",family=\"Times New Roman\"),# change the axis label font attributes\n  axis.text.y = element_text (size = 12, hjust = 1, colour = \"black\",family=\"Times New Roman\"), # change the axis label font attributes\n  axis.ticks = element_line (colour = \"black\", size = 0.5), # sets the thickness and colour of axis ticks\n  axis.ticks.length = unit(-0.25 , \"cm\"), # -ve length = inside ticks\n  axis.ticks.margin = unit(0.5, \"cm\") # margin between the ticks and the text\n)}\n\n\n######Plotting\nPlotR <- function(Data)\n{\n  ###get parameter names\n  measparms <- unique(Data$PARM_CD)\n  numparms <- length(measparms)\n  sites <- unique(Data$SITE_NO)\n  numsites <- length(sites)\n  \n  \n  for (k in 1:numsites)\n  {\n    SiteData <- subset(Data, SITE_NO == sites[k])\n    filename <- unique(SiteData$STATION_NM)\n    \n    setPDF(\"landscape\",filename)\n    for (i in 1:numparms)\n    {\n      \n      Plotdata <- subset(SiteData, PARM_CD == measparms[i])\n      ylabel <- str_wrap(unique(Plotdata$PARM_NM), width = 75)\n      maintitle <- str_wrap(unique(Plotdata$STATION_NM), width = 75)\n      \n      if (length(Plotdata$RESULT_VA) > 1)\n      {\n        p1 <- ggplot(Plotdata,  aes(SAMPLE_START_DT, RESULT_VA, shape = REMARK_CD, color = MEDIUM_CD)) + \n          geom_point(size = 3) + scale_shape_manual(\"Explanation\", labels = c(\"Sample\", \"<\",\">\",\"E\"), values = c(19,0,2,4)) +\n          xlab(\"Date\") + \n          ylab(paste(ylabel,\"\\n\")) +\n          theme_USGS() + ggtitle(maintitle)\n        \n        print(p1)\n      } else{}\n    }\n    \n    dev.off()\n    \n  }\n  \n  \n}",
+    "created" : 1408484612474.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4149982894",
+    "id" : "9EB66F9F",
+    "lastKnownWriteTime" : 1408484641,
+    "path" : "Z:/tmills/Dinero/2014/Spring/SpringNWIS/PlotR-QA.R",
+    "project_path" : "PlotR-QA.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,44 @@
+1
+ SINT: 00001028087360      Process date: 12-19-2013 05:40  --  Transaction number:   22
+
+ Record Number: 01304606       Database Number: 02       Sample ID:
+ Agency and Site ID: USGS 391435106230801       Site Name: SIWATCH MINE DRAINAGE TUNNEL BLW TURQ LAKE NR LEAD
+ Begin Date and Time: 2013-05-30 1352  End Date and Time:                  Time Datum: MDT     Time Datum Reliability: K
+ Medium: OAQ       Sample Type: 2       Country: US       State: 08       County: 065       Geologic Unit:
+ Project: 009YD0200       Lab ID: 2340111
+ Analysis Status: I       Hydrologic Condition: X       Hydrologic Event: X
+ Organism(ITIS):                Body Part:           Number of Parameters: 10
+ Sample Field Comment--
+ Sample Lab Comment--
+ Collecting Agency: USGSCOWC, USGS - Colorado Water Science Center
+
+ 	*** SAMPLE-LEVEL ERRORS ***
+ SINT 00001028087360 Batch mode does not allow change of project code to 009YD2900
+ SINT 00001028087360 Batch mode does not allow change of analysis-status code to U.
+
+                                                                    R  QUAL   N  D  R
+                                                                    E  CODES  V  Q  N
+ * PCODE METHD PARAMETER NAME------          --UNITS--- --VALUE---  M  1 2 3  Q  I  D ANL-ENT  LSDEV   RPLV  RLCOD  PRP DATE PREP-SET NO  ANL DATE ANL-SET NO
+
+   71999       Sample purpose                code           170.00               S  5 USGS-WRD
+   84171       Sample splitter type          code              200               S  3 USGS-WRD
+   84164       Sampler type                  code             8010               S  4 USGS-WRD
+   82398       Sampling method               code             8010               S  4 USGS-WRD
+   50280       Site visit purpose            code             1001               S  4 USGS-WRD
+   99101       Source of blank solution      code               10               S  4 USGS-WRD
+   99102       Type of blank sample          code              100               S  5 USGS-WRD
+   99100       Type of blank solution        code               10               S  4 USGS-WRD
+ N 00940 IC022 Chloride, wf                  mg/l             0.06  <            S  2 USGSNWQL          0.06 LT-MDL                       20131210 ICPRE13343B
+ N 00945 IC022 Sulfate, wf                   mg/l             0.09  <            S  2 USGSNWQL          0.09 LT-MDL                       20131210 ICPRE13343B
+
+ 	*** DEFINITION OF CODES ***
+ 	Remarks--<,less than;
+
+ 	Data Quality Indicator codes--S,Presumed satisfactory;
+
+ 	Reporting Level codes--LT-MDL,Long term method detection level;
+
+ 	Method codes--IC022,Anions, wf, IC;
+
+ 	Analyzing Entity codes--USGS-WRD,U.S. Geological Survey-Water Resources Discipline;USGSNWQL,USGS-National Water Quality Lab, Denver, CO;
+

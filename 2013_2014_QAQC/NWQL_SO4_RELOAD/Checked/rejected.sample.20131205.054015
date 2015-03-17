@@ -1,0 +1,30 @@
+#SINT 00001027945250 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945250	CO1	USGS	06696000	201309040830		WS	2490323	00CRMRS00		9	U												
+#SINT 00001027945244 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945244	CO1	USGS	06701900	201309031845		WS	2490319	00CRMRS00		9	U												
+#SINT 00001027945247 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945247	CO1	USGS	06710385	201309031400		WS	2490315	00CRMRS00		9	U												
+#SINT 00001027945249 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945249	CO1	USGS	07083200	201309041259		OAQ	2490322	00CRMRS00		2	U												
+#SINT 00001027945246 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945246	CO1	USGS	07083200	201309041300		WS	2490321	00CRMRS00		7	U												
+#SINT 00001027945248 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945248	CO1	USGS	07083200	201309041301		WSQ	2490316	00CRMRS00		7	U												
+#SINT 00001027945242 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945242	CO1	USGS	07086500	201309041545		WS	2490317	00CRMRS00		9	U												
+#SINT 00001027945245 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945245	CO1	USGS	09107000	201309051130		WS	2490320	00CRMRS00		9	U												
+#SINT 00001027945243 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027945243	CO1	USGS	09109000	201309050830		WS	2490318	00CRMRS00		9	U												
+#SINT 00001027942738 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027942738	CO1	USGS	391452106224201	201305310925		WG	2340129	009YD2900		9	U		9	9									
+#SINT 00001027942739 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027942739	CO1	USGS	391454106224201	201305311020		WG	2340130	009YD2900		9	U		9	9									
+#SINT 00001027942732 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027942732	CO1	USGS	391501106225401	201305311230		WG	2340123	009YD2900		9	U		4	9			L-2340123 WSC emailed regarding smpl type 2,paa,8/30/13..  smpl type changed from 2 to 9 per Katie,paa,9/3/13						
+#SINT 00001027942723 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027942723	CO1	USGS	391504106223001	201305311500		WG	2340114	009YD2900		9	U		9	9									
+#SINT 00001027942730 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027942730	CO1	USGS	391504106225201	201305310950		WG	2340121	009YD2900		9	U		4	9									
+#SINT 00001027944790 Sample Rejected: Sample not found, and an add not allowed for batch update-only mode
+00001027944790	CO1	USGS	391600106235701	201305301430		WG	2340141	009YD2900		9	U		4	9									

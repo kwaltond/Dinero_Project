@@ -1,0 +1,17 @@
+{
+    "contents" : "Rep.data <- subset(Tables$PlotTable, MEDIUM_CD == \"WSQ\" | MEDIUM_CD == \"WGQ\")\nEnv.data <- subset(Tables$PlotTable, MEDIUM_CD == \"WS \" | MEDIUM_CD == \"WG \")\n\nRep.data$UID <- paste(Rep.data$SITE_NO,Rep.data$SAMPLE_START_DT)\nEnv.data$UID <- paste(Env.data$SITE_NO,Env.data$SAMPLE_START_DT)\n\ntest <- join(Rep.data, Env.data, by = \"UID\")\n",
+    "created" : 1408484613713.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1832214916",
+    "id" : "4ACF3684",
+    "lastKnownWriteTime" : 1410286558,
+    "path" : "Z:/tmills/Dinero/2014/Spring/SpringNWIS/Reps.R",
+    "project_path" : "Reps.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

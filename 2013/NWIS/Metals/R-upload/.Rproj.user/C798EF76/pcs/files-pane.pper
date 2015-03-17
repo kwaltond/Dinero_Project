@@ -1,0 +1,9 @@
+{
+    "path" : "Z:/tmills/Dinero/2013/NWIS/Metals/R-upload",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

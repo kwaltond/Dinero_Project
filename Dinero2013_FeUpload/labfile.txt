@@ -1,0 +1,12 @@
+USGS.SID	Sample.date..yyyymmdd.	Sample.time..hhmm.	medium.code	Sample.end.date..yyyymmdd.	Sample.end.time..hhmm.	pcode1	pcode2
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data
+required	required, yyyymmdd format	required, hhmm format	required	optional, yyyymmdd format	optional, hhmm format	data	data

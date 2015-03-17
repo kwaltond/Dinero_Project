@@ -1,0 +1,116 @@
+PARM_CD	PARM_SEQ_GRP_CD	PARM_DS	max_RPT_LEV_VA	min_RPT_LEV_VA	num_blanks	num_detects	num_e_detects	num_detects_10xRL	median_detected_value	max_detected_value	BD90.90
+00985	IMM	Vanadium, water, unfiltered, recoverable, micrograms per liter	.5	.5	16	0	0	0	NA	-Inf	NA
+01005	IMM	Barium, water, filtered, micrograms per liter	.2	.2	16	9	0	1	0.8	5.4	5.4
+01007	IMM	Barium, water, unfiltered, recoverable, micrograms per liter	.2	.2	16	9	0	2	1.5	2	2
+01010	IMM	Beryllium, water, filtered, micrograms per liter	.05	.05	16	8	0	0	0.08	0.23	0.23
+01012	IMM	Beryllium, water, unfiltered, recoverable, micrograms per liter	.05	.05	16	8	0	0	0.08	0.18	0.18
+01015	IMM	Bismuth, water, filtered, micrograms per liter	.2	.2	16	0	0	0	NA	-Inf	NA
+01017	IMM	Bismuth, water, unfiltered, micrograms per liter	.2	.2	16	0	0	0	NA	-Inf	NA
+01025	IMM	Cadmium, water, filtered, micrograms per liter	.02	.02	16	8	0	2	0.105	0.74	0.74
+01030	IMM	Chromium, water, filtered, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01034	IMM	Chromium, water, unfiltered, recoverable, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01035	IMM	Cobalt, water, filtered, micrograms per liter	.02	.02	16	11	0	4	0.16	0.34	0.34
+01037	IMM	Cobalt, water, unfiltered, recoverable, micrograms per liter	.02	.02	16	8	0	4	0.52	9.6	9.6
+01040	IMM	Copper, water, filtered, micrograms per liter	.5	.5	16	6	0	1	1.235	14.9	14.9
+01042	IMM	Copper, water, unfiltered, recoverable, micrograms per liter	.5	.5	16	8	0	1	1.85	5.3	5.3
+01045	IMM	Iron, water, unfiltered, recoverable, micrograms per liter	50	50	16	2	0	0	67.5	81	81
+01046	IMM	Iron, water, filtered, micrograms per liter	50	50	16	1	0	0	62	62	62
+01047	IMM	Iron(II), water, filtered, micrograms per liter	9	2	16	4	0	0	11.342	20.668	20.668
+01049	IMM	Lead, water, filtered, micrograms per liter	.05	.05	16	8	0	1	0.3	0.63	0.63
+01051	IMM	Lead, water, unfiltered, recoverable, micrograms per liter	.05	.05	16	8	0	4	0.625	7.46	7.46
+01055	IMM	Manganese, water, unfiltered, recoverable, micrograms per liter	.2	.2	16	8	0	4	3.05	109	109
+01056	IMM	Manganese, water, filtered, micrograms per liter	.2	.2	16	8	0	4	2.3	11	11
+01057	IMM	Thallium, water, filtered, micrograms per liter	.1	.1	16	0	0	0	NA	-Inf	NA
+01059	IMM	Thallium, water, unfiltered, micrograms per liter	.1	.1	16	2	0	0	0.145	0.17	0.17
+01060	IMM	Molybdenum, water, filtered, micrograms per liter	2	2	16	0	0	0	NA	-Inf	NA
+01062	IMM	Molybdenum, water, unfiltered, recoverable, micrograms per liter	2	2	16	0	0	0	NA	-Inf	NA
+01065	IMM	Nickel, water, filtered, micrograms per liter	.4	.4	16	3	0	0	1	2	2
+01067	IMM	Nickel, water, unfiltered, recoverable, micrograms per liter	.4	.4	16	5	0	0	1.1	1.8	1.8
+01075	IMM	Silver, water, filtered, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01077	IMM	Silver, water, unfiltered, recoverable, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01080	IMM	Strontium, water, filtered, micrograms per liter	.5	.5	16	3	0	0	0.76	0.77	0.77
+01082	IMM	Strontium, water, unfiltered, recoverable, micrograms per liter	.5	.5	16	4	0	0	1.61	3.4	3.4
+01085	IMM	Vanadium, water, filtered, micrograms per liter	.5	.5	16	0	0	0	NA	-Inf	NA
+01090	IMM	Zinc, water, filtered, micrograms per liter	3	3	16	8	0	1	13.85	47	47
+01092	IMM	Zinc, water, unfiltered, recoverable, micrograms per liter	3	3	16	8	0	3	13.35	79.5	79.5
+01105	IMM	Aluminum, water, unfiltered, recoverable, micrograms per liter	2	2	16	10	0	7	23.15	63.9	63.9
+01106	IMM	Aluminum, water, filtered, micrograms per liter	2	2	16	11	0	3	16	70.3	70.3
+01110	IMM	Cerium, water, filtered, micrograms per liter	.01	.01	16	10	0	3	0.083	0.19	0.19
+01112	IMM	Cerium, water, unfiltered, micrograms per liter	.01	.01	16	10	0	3	0.072	0.53	0.53
+01113	IMM	Cadmium, water, unfiltered, recoverable, micrograms per liter	.02	.02	16	8	0	2	0.066	0.54	0.54
+01115	IMM	Cesium, water, filtered, micrograms per liter	.02	.02	16	0	0	0	NA	-Inf	NA
+01117	IMM	Cesium, water, unfiltered, micrograms per liter	.02	.02	16	2	0	0	0.08	0.13	0.13
+01120	IMM	Gallium, water, filtered, micrograms per liter	.05	.05	16	0	0	0	NA	-Inf	NA
+01122	IMM	Gallium, water, unfiltered, micrograms per liter	.05	.05	16	2	0	0	0.17	0.27	0.27
+01130	IMM	Lithium, water, filtered, micrograms per liter	.1	.1	16	16	0	16	2	14.1	14.1
+01132	IMM	Lithium, water, unfiltered, recoverable, micrograms per liter	.1	.1	16	16	0	16	2	11.2	11.2
+01135	IMM	Rubidium, water, filtered, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01137	IMM	Rubidium, water, unfiltered, micrograms per liter	1	1	16	0	0	0	NA	-Inf	NA
+01150	IMM	Titanium, water, filtered, micrograms per liter	.5	.5	16	6	0	0	0.965	3.5	3.5
+01152	IMM	Titanium, water, unfiltered, micrograms per liter	.5	.5	16	7	0	0	1	1.9	1.9
+01154	IMM	Tungsten, water, unfiltered, micrograms per liter	.5	.5	16	3	0	0	0.68	0.78	0.78
+01155	IMM	Tungsten, water, filtered, micrograms per liter	.5	.5	16	2	0	0	0.71	0.78	0.78
+01160	IMM	Zirconium, water, filtered, micrograms per liter	.2	.2	16	3	0	0	0.4	1.7	1.7
+01162	IMM	Zirconium, water, unfiltered, micrograms per liter	.2	.2	16	3	0	0	0.91	1	1
+01180	IMM	Lanthanum, water, filtered, micrograms per liter	.01	.01	16	6	0	1	0.046	0.1	0.1
+01182	IMM	Lanthanum, water, unfiltered, micrograms per liter	.01	.01	16	7	0	1	0.057	0.19	0.19
+01187	IMM	Scandium, water, filtered, micrograms per liter	.6	.6	16	0	0	0	NA	-Inf	NA
+01189	IMM	Scandium, water, unfiltered, micrograms per liter	.6	.6	16	0	0	0	NA	-Inf	NA
+01194	IMM	Ytterbium, water, filtered, micrograms per liter	.01	.01	16	8	0	1	0.02	0.14	0.14
+01196	IMM	Ytterbium, water, unfiltered, micrograms per liter	.01	.01	16	8	0	1	0.02	0.13	0.13
+01201	IMM	Yttrium, water, filtered, micrograms per liter	.01	.01	16	5	0	0	0.02	0.06	0.06
+01203	IMM	Yttrium, water, unfiltered, micrograms per liter	.01	.01	16	7	0	1	0.04	0.12	0.12
+01218	IMM	Terbium, water, unfiltered, micrograms per liter	.005	.005	16	8	0	1	0.01	0.13	0.13
+01219	IMM	Gadolinium, water, unfiltered, micrograms per liter	.005	.005	16	16	0	2	0.02	0.22	0.22
+01236	IMM	Europium, water, unfiltered, micrograms per liter	.005	.005	16	16	0	1	0.01	0.13	0.13
+01237	IMM	Neodymium, water, unfiltered, micrograms per liter	.01	.01	16	8	0	2	0.054	0.13	0.13
+01238	IMM	Praseodymium, water, unfiltered, micrograms per liter	.01	.01	16	2	0	1	0.075	0.13	0.13
+01239	IMM	Niobium, water, unfiltered, micrograms per liter	.2	.2	16	6	0	0	0.66	0.89	0.89
+01244	IMM	Lutetium, water, unfiltered, micrograms per liter	.1	.1	16	1	0	0	0.18	0.18	0.18
+01245	IMM	Thulium, water, unfiltered, micrograms per liter	.005	.005	16	3	0	1	0.03	0.13	0.13
+01246	IMM	Erbium, water, unfiltered, micrograms per liter	.005	.005	16	8	0	2	0.02	0.27	0.27
+01247	IMM	Holmium, water, unfiltered, micrograms per liter	.005	.005	16	3	0	1	0.01	0.2	0.2
+50573	IMM	Erbium, water, filtered, micrograms per liter	.005	.005	16	8	0	1	0.02	0.053	0.053
+50574	IMM	Europium, water, filtered, micrograms per liter	.005	.005	16	16	0	0	0.01	0.04	0.04
+50575	IMM	Gadolinium, water, filtered, micrograms per liter	.005	.005	16	16	0	2	0.02	0.13	0.13
+50577	IMM	Holmium, water, filtered, micrograms per liter	.005	.005	16	5	0	0	0.008	0.03	0.03
+50579	IMM	Neodymium, water, filtered, micrograms per liter	.01	.01	16	8	0	1	0.02	0.13	0.13
+50580	IMM	Niobium, water, filtered, micrograms per liter	.2	.2	16	6	0	0	0.81	1.1	1.1
+50582	IMM	Praseodymium, water, filtered, micrograms per liter	.01	.01	16	4	0	0	0.025	0.04	0.04
+50586	IMM	Terbium, water, filtered, micrograms per liter	.005	.005	16	8	0	0	0.01	0.02	0.02
+50587	IMM	Thulium, water, filtered, micrograms per liter	.005	.005	16	2	0	0	0.03	0.04	0.04
+62844	IMM	Lutetium, water, filtered, micrograms per liter	.1	.1	16	0	0	0	NA	-Inf	NA
+82318	IMM	Tantalum, water, unfiltered, micrograms per liter	.02	.02	16	16	0	5	0.1	0.68	0.68
+82319	IMM	Tantalum, water, filtered, micrograms per liter	.02	.02	16	16	0	7	0.1	0.46	0.46
+82322	IMM	Samarium, water, unfiltered, micrograms per liter	.01	.01	16	8	0	1	0.03	0.24	0.24
+82323	IMM	Samarium, water, filtered, micrograms per liter	.01	.01	16	8	0	1	0.03	0.21	0.21
+82330	IMM	Dysprosium, water, unfiltered, micrograms per liter	.005	.005	16	8	0	1	0.02	0.063	0.063
+82331	IMM	Dysprosium, water, filtered, micrograms per liter	.005	.005	16	8	0	2	0.02	0.1	0.1
+90868	IMM	Iron(III), water, filtered, calculated, micrograms per liter	9	2	16	0	0	0	NA	-Inf	NA
+00978	IMN	Arsenic, water, unfiltered, recoverable, micrograms per liter	1	1	16	3	0	0	1.2	1.6	1.6
+01000	IMN	Arsenic, water, filtered, micrograms per liter	1	1	16	2	0	0	1.95	2.1	2.1
+01095	IMN	Antimony, water, filtered, micrograms per liter	.3	.3	16	16	0	0	1	1.4	1.4
+01097	IMN	Antimony, water, unfiltered, micrograms per liter	.3	.3	16	15	0	0	1	1.7	1.7
+01125	IMN	Germanium, water, filtered, micrograms per liter	.05	.05	16	1	0	0	0.057	0.057	0.057
+01127	IMN	Germanium, water, unfiltered, micrograms per liter	.05	.05	16	2	0	0	0.15	0.23	0.23
+01145	IMN	Selenium, water, filtered, micrograms per liter	1	1	16	1	0	0	2.5	2.5	2.5
+01147	IMN	Selenium, water, unfiltered, micrograms per liter	1	1	16	5	0	0	1.8	2.3	2.3
+00915	INM	Calcium, water, filtered, milligrams per liter	.2	.2	16	1	0	0	0.34	0.34	0.34
+00916	INM	Calcium, water, unfiltered, recoverable, milligrams per liter	.2	.2	16	4	0	0	0.57	0.94	0.94
+00925	INM	Magnesium, water, filtered, milligrams per liter	.01	.01	16	7	0	0	0.017	0.078	0.078
+00927	INM	Magnesium, water, unfiltered, recoverable, milligrams per liter	.01	.01	16	7	0	2	0.031	0.26	0.26
+00929	INM	Sodium, water, unfiltered, recoverable, milligrams per liter	.01	.01	16	8	0	8	1.2	1.8	1.8
+00930	INM	Sodium, water, filtered, milligrams per liter	.01	.01	16	8	0	8	0.82	1.2	1.2
+00935	INM	Potassium, water, filtered, milligrams per liter	.03	.03	16	2	0	0	0.05	0.06	0.06
+00937	INM	Potassium, water, unfiltered, recoverable, milligrams per liter	.03	.03	16	3	0	0	0.06	0.07	0.07
+00940	INN	Chloride, water, filtered, milligrams per liter	.06	.02	16	0	0	0	NA	-Inf	NA
+00945	INN	Sulfate, water, filtered, milligrams per liter	.09	.02	16	3	0	0	0.023	0.027	0.027
+00946	INN	Sulfate, water, unfiltered, milligrams per liter	2	2	15	3	0	0	8.7	11.4	11.4
+00954	INN	Silica, water, unfiltered, recoverable, micrograms per liter as SiO2	.2	.2	16	3	0	0	0.235	0.257	0.257
+00955	INN	Silica, water, filtered, milligrams per liter as SiO2	.2	.2	16	0	0	0	NA	-Inf	NA
+00665	NUT	Phosphorus, water, unfiltered, milligrams per liter as phosphorus	.01	.01	16	8	0	0	0.04	0.07	0.07
+00666	NUT	Phosphorus, water, filtered, milligrams per liter as phosphorus	.01	.01	16	5	0	0	0.04	0.06	0.06
+22703	RAD	Uranium (natural), water, filtered, micrograms per liter	.1	.1	16	0	0	0	NA	-Inf	NA
+22704	RAD	Uranium, water, unfiltered, recoverable, micrograms per liter	.1	.1	16	1	0	0	0.14	0.14	0.14
+82364	RAD	Thorium, water, unfiltered, micrograms per liter	.2	.2	16	3	0	0	0.32	0.61	0.61
+82365	RAD	Thorium, water, filtered, micrograms per liter	.2	.2	16	1	0	0	0.42	0.42	0.42

@@ -1,0 +1,2 @@
+"RECORD_NO","SITE_NO","STATION_NM","SAMPLE_START_DT","MEDIUM_CD","LAB_NO","Timeseries","Notes","Rerun.submitted"
+"01403817","391504106225200","DINERO MINE DRAINAGE TUNNEL BLW TURQUOISE LK NR LE","2014-09-23 14:10:00","WG ","W139439","Timeseries","A problem with the RA, for this sample. Its always really high oncentration",""
